@@ -16,7 +16,7 @@ for d in data:
         symptoms=d.get("symptoms", []),
         precautions=d.get("precautions", []),
 
-        risk_factors=d.get("risk_factors", []),   # 🔥 MUST BE HERE
+        risk_factors=d.get("risk_factors", []),   
 
         contagious=d.get("contagious", False)
     )
