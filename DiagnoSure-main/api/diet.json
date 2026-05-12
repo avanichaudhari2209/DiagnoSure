@@ -1,0 +1,286 @@
+[
+    {
+        "name": "Common Cold (Rhinovirus)",
+        "diet": "Hydration with warm broths, herbal teas with honey, and high Vitamin C fruits like oranges and kiwis."
+    },
+    {
+        "name": "Influenza (Flu)",
+        "diet": "Electrolyte drinks, chicken soup, and soft foods like bananas or toast to manage nausea."
+    },
+    {
+        "name": "COVID-19 (Coronavirus)",
+        "diet": "High-protein foods (eggs, lean meat) for recovery and Vitamin D-fortified foods like mushrooms and fatty fish."
+    },
+    {
+        "name": "Dengue Fever",
+        "diet": "Papaya leaf juice, coconut water for hydration, and iron-rich foods like spinach to support blood health."
+    },
+    {
+        "name": "Chickenpox (Varicella)",
+        "diet": "Soft, bland diet (mashed potatoes, yogurt) if mouth sores are present; avoid salty or acidic foods."
+    },
+    {
+        "name": "Measles",
+        "diet": "Vitamin A-rich foods (carrots, sweet potatoes) to prevent complications and plenty of water."
+    },
+    {
+        "name": "Mumps",
+        "diet": "Soft foods that require minimal chewing (soups, puddings) due to swollen jaw glands; avoid acidic fruit juices."
+    },
+    {
+        "name": "Hepatitis A, B, & C",
+        "diet": "High-calorie, low-fat diet to ease liver digestion; strictly avoid alcohol and processed sugars."
+    },
+    {
+        "name": "HIV/AIDS",
+        "diet": "High-protein and high-calorie nutrient-dense foods; ensure strict food safety/hygiene to avoid infections."
+    },
+    {
+        "name": "Herpes Simplex (HSV-1 & HSV-2)",
+        "diet": "Foods high in Lysine (fish, chicken, legumes) and low in Arginine (nuts, chocolate) to potentially reduce outbreaks."
+    },
+    {
+        "name": "Epstein-Barr Virus (Mononucleosis)",
+        "diet": "Anti-inflammatory foods and heavy hydration; avoid alcohol to protect the liver and spleen."
+    },
+    {
+        "name": "Zika Virus",
+        "diet": "General supportive hydration and a balanced Mediterranean diet to support the immune system."
+    },
+    {
+        "name": "Rabies",
+        "diet": "Intravenous fluids and nutrition are typically required due to difficulty swallowing (hydrophobia)."
+    },
+    {
+        "name": "Yellow Fever",
+        "diet": "High-carb, low-protein diet during acute phases to prevent liver and kidney strain."
+    },
+    {
+        "name": "West Nile Virus",
+        "diet": "Immune-boosting diet rich in antioxidants (berries, leafy greens) and adequate fluids."
+    },
+    {
+        "name": "Polio (Poliomyelitis)",
+        "diet": "High-fiber foods to prevent constipation caused by reduced mobility and muscle weakness."
+    },
+    {
+        "name": "Rubella (German Measles)",
+        "diet": "Supportive hydration and vitamin-rich light meals."
+    },
+    {
+        "name": "Rotavirus & Norovirus",
+        "diet": "The 'BRAT' diet (Bananas, Rice, Applesauce, Toast) and oral rehydration salts (ORS)."
+    },
+    {
+        "name": "Hand, Foot, and Mouth Disease",
+        "diet": "Cold foods like yogurt or smoothies to soothe mouth sores; avoid spicy or salty foods."
+    },
+    {
+        "name": "Shingles (Herpes Zoster)",
+        "diet": "Vitamin B12 and orange/yellow vegetables (Vitamin A) to support nerve health and skin recovery."
+    },
+    {
+        "name": "Human Papillomavirus (HPV)",
+        "diet": "Folate-rich foods (asparagus, chickpeas) and cruciferous vegetables like broccoli to support cellular health."
+    },
+    {
+        "name": "Strep Throat",
+        "diet": "Soothing warm liquids, mashed vegetables, and frozen fruit pops to numb throat pain."
+    },
+    {
+        "name": "Tuberculosis (TB)",
+        "diet": "High-protein (beans, meat), high-calorie diet, and Vitamin B6-rich foods like bananas."
+    },
+    {
+        "name": "Pneumonia (Bacterial)",
+        "diet": "Warm fluids to thin mucus and small, nutrient-dense meals to avoid shortness of breath while eating."
+    },
+    {
+        "name": "Urinary Tract Infection (UTI)",
+        "diet": "Unsweetened cranberry juice, high water intake, and probiotics (kefir) to maintain healthy bacteria."
+    },
+    {
+        "name": "Salmonella & E. coli",
+        "diet": "Clear liquids initially, followed by bland, low-fiber foods until digestion normalizes."
+    },
+    {
+        "name": "Lyme Disease",
+        "diet": "Anti-inflammatory, grain-free or low-sugar diet to manage joint pain and support antibiotic treatment."
+    },
+    {
+        "name": "Meningitis (Bacterial)",
+        "diet": "High-protein shakes and easily digestible nutrition to support brain and body recovery."
+    },
+    {
+        "name": "Tetanus",
+        "diet": "High-calorie intake is often necessary due to high muscle metabolic activity; often requires liquid nutrition."
+    },
+    {
+        "name": "Whooping Cough (Pertussis)",
+        "diet": "Small, frequent meals to prevent vomiting after coughing fits; stay hydrated."
+    },
+    {
+        "name": "Botulism",
+        "diet": "Medical nutritional support (tube feeding) is usually required due to paralysis of swallowing muscles."
+    },
+    {
+        "name": "Anthrax",
+        "diet": "High-protein and fluid-heavy diet to support recovery from systemic infection."
+    },
+    {
+        "name": "Cholera",
+        "diet": "Intense rehydration with Oral Rehydration Salts (ORS) and zinc supplementation."
+    },
+    {
+        "name": "Typhoid Fever",
+        "diet": "Low-fiber, high-calorie diet (boiled rice, baked potatoes) to avoid irritating the intestines."
+    },
+    {
+        "name": "Syphilis",
+        "diet": "General balanced nutrition to support the immune system during antibiotic treatment."
+    },
+    {
+        "name": "Athlete's Foot & Ringworm",
+        "diet": "Reduce sugar and yeast intake to limit fungal growth; include garlic for natural antifungal properties."
+    },
+    {
+        "name": "Candidiasis (Yeast Infection)",
+        "diet": "Low-sugar, low-carb diet; include probiotics (yogurt) and caprylic acid-rich coconut oil."
+    },
+    {
+        "name": "Malaria",
+        "diet": "Iron-rich foods to combat anemia and high-calorie foods to replace energy lost to high fevers."
+    },
+    {
+        "name": "Giardiasis",
+        "diet": "Avoid dairy (lactose) temporarily as the parasite can cause temporary lactose intolerance."
+    },
+    {
+        "name": "Toxoplasmosis",
+        "diet": "Supportive diet rich in Vitamin C and E; strict avoidance of raw or undercooked meats."
+    },
+    {
+        "name": "Rheumatoid Arthritis",
+        "diet": "Omega-3 fatty acids (fatty fish) and anti-inflammatory spices like turmeric and ginger."
+    },
+    {
+        "name": "Lupus (SLE)",
+        "diet": "Low-sodium diet to protect kidneys; avoid alfalfa sprouts which may trigger flares."
+    },
+    {
+        "name": "Type 1 & Type 2 Diabetes",
+        "diet": "Low-glycemic index carbohydrates, high fiber (whole grains), and lean proteins."
+    },
+    {
+        "name": "Multiple Sclerosis (MS)",
+        "diet": "Vitamin D-rich diet, lean proteins, and high-fiber foods to support neurological health and digestion."
+    },
+    {
+        "name": "Celiac Disease",
+        "diet": "Strict, lifelong gluten-free diet (no wheat, barley, or rye)."
+    },
+    {
+        "name": "Down Syndrome",
+        "diet": "Weight-managed, high-fiber diet to prevent obesity and constipation; focus on heart-healthy fats."
+    },
+    {
+        "name": "Cystic Fibrosis",
+        "diet": "High-calorie, high-salt, and high-fat diet with fat-soluble vitamin (A, D, E, K) supplements."
+    },
+    {
+        "name": "Sickle Cell Disease",
+        "diet": "Folate-rich foods (lentils, leafy greens) and heavy hydration to prevent pain crises."
+    },
+    {
+        "name": "Hemophilia",
+        "diet": "Iron-rich foods and Vitamin K-rich greens to support blood health; maintain a healthy weight to reduce joint stress."
+    },
+    {
+        "name": "Huntington's Disease",
+        "diet": "High-calorie, easy-to-swallow foods to counteract involuntary movements and prevent choking."
+    },
+    {
+        "name": "Hypothyroidism",
+        "diet": "Iodized salt, selenium-rich Brazil nuts, and limit raw goitrogenic foods like kale."
+    },
+    {
+        "name": "Hyperthyroidism",
+        "diet": "Avoid excess iodine; include cruciferous vegetables which may naturally slow thyroid hormone production."
+    },
+    {
+        "name": "Gout",
+        "diet": "Avoid purine-rich foods (red meat, organ meats, beer) and increase water and cherry intake."
+    },
+    {
+        "name": "Phenylketonuria (PKU)",
+        "diet": "Very low-protein diet; avoid high-protein foods like meat, dairy, and aspartame (Equal)."
+    },
+    {
+        "name": "Hypertension (High Blood Pressure)",
+        "diet": "The DASH diet: Low sodium, high potassium, magnesium, and calcium."
+    },
+    {
+        "name": "Coronary Artery Disease & Heart Failure",
+        "diet": "Low-saturated fat, low-sodium, and high-omega-3 diet (Mediterranean style)."
+    },
+    {
+        "name": "Stroke",
+        "diet": "Heart-healthy diet with focus on reduced salt and soft-textured foods if swallowing is impaired."
+    },
+    {
+        "name": "Asthma & COPD",
+        "diet": "Lower carb/higher fat (for COPD), magnesium-rich foods to relax airways, and avoid sulfites."
+    },
+    {
+        "name": "Sleep Apnea",
+        "diet": "Weight-loss focused diet to reduce neck fat; avoid alcohol and heavy meals before bed."
+    },
+    {
+        "name": "Alzheimer's & Parkinson's",
+        "diet": "MIND or Mediterranean diet rich in antioxidants, berries, and healthy fats (olive oil)."
+    },
+    {
+        "name": "Epilepsy",
+        "diet": "Standard balanced diet; some patients use a medically supervised Ketogenic (high-fat) diet."
+    },
+    {
+        "name": "Migraine",
+        "diet": "Avoid triggers like aged cheese, MSG, nitrates (deli meats), and red wine; maintain steady blood sugar."
+    },
+    {
+        "name": "GERD (Acid Reflux)",
+        "diet": "Avoid spicy foods, chocolate, caffeine, and mint; eat small meals and stay upright after eating."
+    },
+    {
+        "name": "IBS & IBD (Crohn's/Colitis)",
+        "diet": "Low-FODMAP diet for IBS; low-fiber/bland diet during IBD flares; high-protein for healing."
+    },
+    {
+        "name": "PCOS",
+        "diet": "Low-glycemic, anti-inflammatory diet to manage insulin resistance; high-fiber and lean proteins."
+    },
+    {
+        "name": "Addison's Disease",
+        "diet": "High-sodium diet (especially in hot weather or during exercise) and adequate complex carbs."
+    },
+    {
+        "name": "Acromegaly",
+        "diet": "Diabetes-friendly diet to manage potential growth-hormone-induced insulin resistance."
+    },
+    {
+        "name": "Lung/Breast/Prostate Cancer",
+        "diet": "Plant-based, high-fiber diet; include cruciferous vegetables and green tea; maintain protein during treatment."
+    },
+    {
+        "name": "Major Depressive/Anxiety Disorder",
+        "diet": "Omega-3s, fermented foods for gut health, and B-vitamins to support neurotransmitter function."
+    },
+    {
+        "name": "Ehlers-Danlos Syndrome",
+        "diet": "Vitamin C and Copper-rich foods to support collagen synthesis; high-protein to support joint stability."
+    },
+    {
+        "name": "Myasthenia Gravis",
+        "diet": "Soft, easy-to-chew foods to prevent fatigue while eating; small, frequent meals."
+    }
+]

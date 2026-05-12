@@ -1,0 +1,3425 @@
+[
+  {
+    "name": "Common Cold (Rhinovirus)",
+    "category": "** Viral Infection",
+    "icd_code": "** J00",
+    "symptoms": [
+      "Runny nose",
+      "Sneezing",
+      "Sore throat",
+      "Mild headache",
+      "Cough",
+      "Nasal congestion",
+      "Low-grade fever",
+      "Body aches",
+      "Fatigue"
+    ],
+    "risk_factors": [
+      "Close contact with infected individuals",
+      "Weakened immune system",
+      "Stress",
+      "Lack of sleep",
+      "Cold weather exposure",
+      "Touching contaminated surfaces"
+    ],
+    "precautions": [
+      "Wash hands frequently",
+      "Avoid touching face",
+      "Stay hydrated",
+      "Get adequate sleep",
+      "Maintain distance from sick people",
+      "Strengthen immune system with vitamins",
+      "Cover mouth when coughing"
+    ],
+    "severity": "Moderate",
+    "contagious": false,
+    "typical_duration": "Varies",
+    "treatment_available": true
+  },
+  {
+    "name": "Influenza (Flu)",
+    "category": "** Viral Infection",
+    "icd_code": "** J11",
+    "symptoms": [
+      "High fever",
+      "Severe body aches",
+      "Extreme fatigue",
+      "Dry cough",
+      "Headache",
+      "Chills",
+      "Sore throat",
+      "Nasal congestion",
+      "Weakness",
+      "Loss of appetite"
+    ],
+    "risk_factors": [
+      "Age (young children, elderly)",
+      "Weakened immune system",
+      "Chronic health conditions",
+      "Pregnancy",
+      "Not vaccinated",
+      "Crowded environments"
+    ],
+    "precautions": [
+      "Get annual flu vaccine",
+      "Wash hands regularly",
+      "Avoid close contact with sick people",
+      "Disinfect surfaces",
+      "Stay home when sick",
+      "Cover coughs and sneezes"
+    ],
+    "severity": "Moderate",
+    "contagious": false,
+    "typical_duration": "Varies",
+    "treatment_available": true
+  },
+  {
+    "name": "COVID-19 (Coronavirus)",
+    "category": "** Viral Infection",
+    "icd_code": "** U07.1",
+    "symptoms": [
+      "Fever or chills",
+      "Dry cough",
+      "Shortness of breath",
+      "Fatigue",
+      "Loss of taste or smell",
+      "Sore throat",
+      "Headache",
+      "Body aches",
+      "Nausea or vomiting",
+      "Diarrhea"
+    ],
+    "risk_factors": [
+      "Age over 65",
+      "Chronic lung disease",
+      "Heart conditions",
+      "Diabetes",
+      "Obesity",
+      "Weakened immune system",
+      "Unvaccinated status"
+    ],
+    "precautions": [
+      "Get vaccinated and boosted",
+      "Wear masks in crowded areas",
+      "Practice social distancing",
+      "Wash hands frequently",
+      "Avoid touching face",
+      "Improve ventilation",
+      "Stay home if sick"
+    ],
+    "severity": "Moderate",
+    "contagious": false,
+    "typical_duration": "Varies",
+    "treatment_available": true
+  },
+  {
+    "name": "Dengue Fever",
+    "category": "** Viral Infection",
+    "icd_code": "** A90",
+    "symptoms": [
+      "High fever (104\u00b0F)",
+      "Severe headache",
+      "Pain behind eyes",
+      "Joint and muscle pain",
+      "Skin rash",
+      "Nausea and vomiting",
+      "Mild bleeding (nose/gums)",
+      "Fatigue"
+    ],
+    "risk_factors": [
+      "Living in tropical areas",
+      "Previous dengue infection",
+      "Mosquito exposure",
+      "Poor sanitation",
+      "Standing water nearby"
+    ],
+    "precautions": [
+      "Use mosquito repellent",
+      "Wear protective clothing",
+      "Use mosquito nets",
+      "Eliminate standing water",
+      "Install window screens"
+    ],
+    "severity": "Moderate",
+    "contagious": false,
+    "typical_duration": "Varies",
+    "treatment_available": true
+  },
+  {
+    "name": "Chickenpox (Varicella)",
+    "category": "** Viral Infection",
+    "icd_code": "** B01",
+    "symptoms": [
+      "Itchy rash with blisters",
+      "Fever",
+      "Fatigue",
+      "Loss of appetite",
+      "Headache",
+      "Red spots all over body",
+      "Fluid-filled blisters"
+    ],
+    "risk_factors": [
+      "Not vaccinated",
+      "Age (common in children)",
+      "Weakened immune system",
+      "Close contact with infected person"
+    ],
+    "precautions": [
+      "Get varicella vaccine",
+      "Avoid contact with infected individuals",
+      "Practice good hygiene",
+      "Isolate if infected"
+    ],
+    "severity": "Moderate",
+    "contagious": false,
+    "typical_duration": "Varies",
+    "treatment_available": true
+  },
+  {
+    "name": "Measles",
+    "category": "** Viral Infection",
+    "icd_code": "** B05",
+    "symptoms": [
+      "High fever",
+      "Cough",
+      "Runny nose",
+      "Red, watery eyes",
+      "Tiny white spots in mouth",
+      "Red rash spreading from face downward",
+      "Sore throat",
+      "Muscle pain"
+    ],
+    "risk_factors": [
+      "Not vaccinated",
+      "Weakened immune system",
+      "International travel",
+      "Vitamin A deficiency"
+    ],
+    "precautions": [
+      "MMR vaccination",
+      "Avoid contact with infected persons",
+      "Boost immune system",
+      "Vitamin A supplementation"
+    ],
+    "severity": "Moderate",
+    "contagious": false,
+    "typical_duration": "Varies",
+    "treatment_available": true
+  },
+  {
+    "name": "Mumps",
+    "category": "** Viral Infection",
+    "icd_code": "** B26",
+    "symptoms": [
+      "Swollen salivary glands",
+      "Fever",
+      "Headache",
+      "Muscle aches",
+      "Fatigue",
+      "Loss of appetite",
+      "Pain while chewing"
+    ],
+    "risk_factors": [
+      "Not vaccinated",
+      "Close contact in crowded settings",
+      "Age (5-14 years)"
+    ],
+    "precautions": [
+      "MMR vaccination",
+      "Practice good hygiene",
+      "Isolate if infected"
+    ],
+    "severity": "Moderate",
+    "contagious": false,
+    "typical_duration": "Varies",
+    "treatment_available": true
+  },
+  {
+    "name": "Hepatitis A",
+    "category": "** Viral Infection",
+    "icd_code": "** B15",
+    "symptoms": [
+      "Fatigue",
+      "Nausea and vomiting",
+      "Abdominal pain",
+      "Dark urine",
+      "Clay-colored stools",
+      "Joint pain",
+      "Jaundice (yellowing of skin)",
+      "Loss of appetite",
+      "Low-grade fever"
+    ],
+    "risk_factors": [
+      "Poor sanitation",
+      "Contaminated food/water",
+      "Close contact with infected person",
+      "International travel",
+      "Drug use"
+    ],
+    "precautions": [
+      "Get vaccinated",
+      "Wash hands thoroughly",
+      "Drink safe water",
+      "Practice food safety",
+      "Avoid raw shellfish"
+    ],
+    "severity": "Moderate",
+    "contagious": false,
+    "typical_duration": "Varies",
+    "treatment_available": true
+  },
+  {
+    "name": "Hepatitis B",
+    "category": "** Viral Infection",
+    "icd_code": "** B16",
+    "symptoms": [
+      "Abdominal pain",
+      "Dark urine",
+      "Fever",
+      "Joint pain",
+      "Loss of appetite",
+      "Nausea and vomiting",
+      "Weakness and fatigue",
+      "Jaundice"
+    ],
+    "risk_factors": [
+      "Unprotected sex",
+      "Sharing needles",
+      "Healthcare work",
+      "Mother-to-child transmission",
+      "Blood transfusion"
+    ],
+    "precautions": [
+      "Get vaccinated",
+      "Practice safe sex",
+      "Don't share needles",
+      "Screen blood donations",
+      "Use protective equipment"
+    ],
+    "severity": "Moderate",
+    "contagious": false,
+    "typical_duration": "Varies",
+    "treatment_available": true
+  },
+  {
+    "name": "Hepatitis C",
+    "category": "** Viral Infection",
+    "icd_code": "** B17.1",
+    "symptoms": [
+      "Fatigue",
+      "Fever",
+      "Nausea",
+      "Poor appetite",
+      "Abdominal pain",
+      "Dark urine",
+      "Joint pain",
+      "Jaundice"
+    ],
+    "risk_factors": [
+      "IV drug use",
+      "Blood transfusion (before 1992)",
+      "Needle stick injury",
+      "Unsterilized equipment",
+      "Mother-to-child transmission"
+    ],
+    "precautions": [
+      "Don't share needles",
+      "Screen blood products",
+      "Use sterile equipment",
+      "Practice safe sex",
+      "Get tested if at risk"
+    ],
+    "severity": "Moderate",
+    "contagious": false,
+    "typical_duration": "Varies",
+    "treatment_available": true
+  },
+  {
+    "name": "HIV/AIDS",
+    "category": "** Viral Infection",
+    "icd_code": "** B20",
+    "symptoms": [
+      "Fever",
+      "Fatigue",
+      "Swollen lymph nodes",
+      "Sore throat",
+      "Rash",
+      "Muscle aches",
+      "Night sweats",
+      "Weight loss",
+      "Recurring infections"
+    ],
+    "risk_factors": [
+      "Unprotected sex",
+      "Multiple sexual partners",
+      "IV drug use",
+      "Blood transfusion",
+      "Mother-to-child transmission"
+    ],
+    "precautions": [
+      "Practice safe sex",
+      "Use condoms",
+      "Don't share needles",
+      "Get tested regularly",
+      "PrEP medication if high risk",
+      "Antiretroviral therapy"
+    ],
+    "severity": "Moderate",
+    "contagious": false,
+    "typical_duration": "Varies",
+    "treatment_available": true
+  },
+  {
+    "name": "Herpes Simplex Virus (HSV-1)",
+    "category": "** Viral Infection",
+    "icd_code": "** B00.1",
+    "symptoms": [
+      "Cold sores around mouth",
+      "Tingling before outbreak",
+      "Painful blisters",
+      "Fever",
+      "Swollen lymph nodes",
+      "Sore throat"
+    ],
+    "risk_factors": [
+      "Close contact with infected person",
+      "Weakened immune system",
+      "Stress",
+      "Fever or illness"
+    ],
+    "precautions": [
+      "Avoid kissing infected individuals",
+      "Don't share utensils",
+      "Wash hands frequently",
+      "Manage stress",
+      "Avoid triggers"
+    ],
+    "severity": "Moderate",
+    "contagious": false,
+    "typical_duration": "Varies",
+    "treatment_available": true
+  },
+  {
+    "name": "Herpes Simplex Virus (HSV-2)",
+    "category": "** Viral Infection",
+    "icd_code": "** A60",
+    "symptoms": [
+      "Genital sores and blisters",
+      "Pain during urination",
+      "Itching",
+      "Flu-like symptoms",
+      "Swollen lymph nodes",
+      "Painful lesions"
+    ],
+    "risk_factors": [
+      "Unprotected sex",
+      "Multiple partners",
+      "Other STIs",
+      "Female sex",
+      "Weakened immune system"
+    ],
+    "precautions": [
+      "Practice safe sex",
+      "Use condoms",
+      "Avoid sex during outbreaks",
+      "Get tested",
+      "Antiviral medication"
+    ],
+    "severity": "Moderate",
+    "contagious": false,
+    "typical_duration": "Varies",
+    "treatment_available": true
+  },
+  {
+    "name": "Epstein-Barr Virus (Mononucleosis)",
+    "category": "** Viral Infection",
+    "icd_code": "** B27",
+    "symptoms": [
+      "Extreme fatigue",
+      "Fever",
+      "Sore throat",
+      "Swollen lymph nodes",
+      "Swollen spleen",
+      "Headache",
+      "Skin rash",
+      "Loss of appetite"
+    ],
+    "risk_factors": [
+      "Age (15-25)",
+      "Close contact with infected saliva",
+      "Kissing",
+      "Sharing drinks/utensils"
+    ],
+    "precautions": [
+      "Avoid sharing drinks",
+      "Don't share utensils",
+      "Practice good hygiene",
+      "Get adequate rest",
+      "Avoid contact sports if spleen enlarged"
+    ],
+    "severity": "Moderate",
+    "contagious": false,
+    "typical_duration": "Varies",
+    "treatment_available": true
+  },
+  {
+    "name": "Zika Virus",
+    "category": "** Viral Infection",
+    "icd_code": "** A92.5",
+    "symptoms": [
+      "Fever",
+      "Rash",
+      "Joint pain",
+      "Red eyes (conjunctivitis)",
+      "Muscle pain",
+      "Headache",
+      "Mild symptoms overall"
+    ],
+    "risk_factors": [
+      "Travel to endemic areas",
+      "Mosquito bites",
+      "Sexual transmission",
+      "Pregnancy (risk to fetus)"
+    ],
+    "precautions": [
+      "Avoid travel to outbreak areas if pregnant",
+      "Use mosquito repellent",
+      "Wear protective clothing",
+      "Use condoms",
+      "Eliminate standing water"
+    ],
+    "severity": "Moderate",
+    "contagious": false,
+    "typical_duration": "Varies",
+    "treatment_available": true
+  },
+  {
+    "name": "Rabies",
+    "category": "** Viral Infection",
+    "icd_code": "** A82",
+    "symptoms": [
+      "Fever",
+      "Headache",
+      "Weakness",
+      "Discomfort at bite site",
+      "Anxiety",
+      "Confusion",
+      "Agitation",
+      "Hallucinations",
+      "Hydrophobia (fear of water)",
+      "Insomnia"
+    ],
+    "risk_factors": [
+      "Animal bites (especially dogs, bats)",
+      "Rural areas",
+      "Unvaccinated pets",
+      "Occupational exposure"
+    ],
+    "precautions": [
+      "Vaccinate pets",
+      "Avoid wild animals",
+      "Get post-exposure prophylaxis immediately",
+      "Report animal bites",
+      "Educate children about animal safety"
+    ],
+    "severity": "Moderate",
+    "contagious": false,
+    "typical_duration": "Varies",
+    "treatment_available": true
+  },
+  {
+    "name": "Yellow Fever",
+    "category": "** Viral Infection",
+    "icd_code": "** A95",
+    "symptoms": [
+      "Fever",
+      "Headache",
+      "Muscle aches",
+      "Nausea and vomiting",
+      "Fatigue",
+      "Jaundice",
+      "Bleeding",
+      "Organ failure (severe cases)"
+    ],
+    "risk_factors": [
+      "Travel to endemic areas (Africa, South America)",
+      "Mosquito exposure",
+      "Not vaccinated"
+    ],
+    "precautions": [
+      "Get yellow fever vaccine",
+      "Use mosquito protection",
+      "Avoid endemic areas if not vaccinated"
+    ],
+    "severity": "Moderate",
+    "contagious": false,
+    "typical_duration": "Varies",
+    "treatment_available": true
+  },
+  {
+    "name": "West Nile Virus",
+    "category": "** Viral Infection",
+    "icd_code": "** A92.3",
+    "symptoms": [
+      "Fever",
+      "Headache",
+      "Body aches",
+      "Joint pain",
+      "Vomiting",
+      "Diarrhea",
+      "Rash",
+      "Fatigue"
+    ],
+    "risk_factors": [
+      "Mosquito bites",
+      "Outdoor activities",
+      "Age over 60",
+      "Weakened immune system"
+    ],
+    "precautions": [
+      "Use insect repellent",
+      "Wear long sleeves",
+      "Avoid peak mosquito hours",
+      "Eliminate standing water"
+    ],
+    "severity": "Moderate",
+    "contagious": false,
+    "typical_duration": "Varies",
+    "treatment_available": true
+  },
+  {
+    "name": "Polio (Poliomyelitis)",
+    "category": "** Viral Infection",
+    "icd_code": "** A80",
+    "symptoms": [
+      "Fever",
+      "Fatigue",
+      "Headache",
+      "Vomiting",
+      "Stiffness in neck",
+      "Pain in limbs",
+      "Paralysis (severe cases)"
+    ],
+    "risk_factors": [
+      "Not vaccinated",
+      "Travel to endemic areas",
+      "Poor sanitation",
+      "Close contact with infected person"
+    ],
+    "precautions": [
+      "Get polio vaccine",
+      "Practice good hygiene",
+      "Drink safe water",
+      "Avoid contaminated food"
+    ],
+    "severity": "Moderate",
+    "contagious": false,
+    "typical_duration": "Varies",
+    "treatment_available": true
+  },
+  {
+    "name": "Rubella (German Measles)",
+    "category": "** Viral Infection",
+    "icd_code": "** B06",
+    "symptoms": [
+      "Mild fever",
+      "Rash starting on face",
+      "Swollen lymph nodes",
+      "Headache",
+      "Runny nose",
+      "Red eyes",
+      "Joint pain (adults)"
+    ],
+    "risk_factors": [
+      "Not vaccinated",
+      "Pregnancy (risk to fetus)",
+      "International travel"
+    ],
+    "precautions": [
+      "MMR vaccination",
+      "Avoid contact if pregnant and not immune",
+      "Isolate if infected"
+    ],
+    "severity": "Moderate",
+    "contagious": false,
+    "typical_duration": "Varies",
+    "treatment_available": true
+  },
+  {
+    "name": "Rotavirus",
+    "category": "** Viral Infection",
+    "icd_code": "** A08.0",
+    "symptoms": [
+      "Severe watery diarrhea",
+      "Vomiting",
+      "Fever",
+      "Abdominal pain",
+      "Dehydration",
+      "Loss of appetite"
+    ],
+    "risk_factors": [
+      "Age (infants and young children)",
+      "Childcare settings",
+      "Poor hand hygiene"
+    ],
+    "precautions": [
+      "Rotavirus vaccine",
+      "Frequent handwashing",
+      "Sanitize surfaces",
+      "Stay hydrated"
+    ],
+    "severity": "Moderate",
+    "contagious": false,
+    "typical_duration": "Varies",
+    "treatment_available": true
+  },
+  {
+    "name": "Norovirus",
+    "category": "** Viral Infection",
+    "icd_code": "** A08.1",
+    "symptoms": [
+      "Sudden onset nausea",
+      "Vomiting",
+      "Watery diarrhea",
+      "Stomach cramps",
+      "Low-grade fever",
+      "Body aches",
+      "Headache"
+    ],
+    "risk_factors": [
+      "Contaminated food/water",
+      "Close contact with infected person",
+      "Cruise ships",
+      "Restaurants"
+    ],
+    "precautions": [
+      "Wash hands thoroughly",
+      "Clean contaminated surfaces with bleach",
+      "Avoid food prepared by sick people",
+      "Stay home when sick"
+    ],
+    "severity": "Moderate",
+    "contagious": false,
+    "typical_duration": "Varies",
+    "treatment_available": true
+  },
+  {
+    "name": "Hand, Foot, and Mouth Disease",
+    "category": "** Viral Infection",
+    "icd_code": "** B08.4",
+    "symptoms": [
+      "Fever",
+      "Sore throat",
+      "Painful mouth sores",
+      "Skin rash on hands and feet",
+      "Loss of appetite",
+      "Irritability"
+    ],
+    "risk_factors": [
+      "Age (under 5 years)",
+      "Childcare settings",
+      "Close contact",
+      "Poor hygiene"
+    ],
+    "precautions": [
+      "Wash hands frequently",
+      "Disinfect surfaces",
+      "Avoid close contact",
+      "Don't share utensils"
+    ],
+    "severity": "Moderate",
+    "contagious": false,
+    "typical_duration": "Varies",
+    "treatment_available": true
+  },
+  {
+    "name": "Shingles (Herpes Zoster)",
+    "category": "** Viral Infection",
+    "icd_code": "** B02",
+    "symptoms": [
+      "Painful rash on one side of body",
+      "Burning or tingling sensation",
+      "Blisters that scab over",
+      "Fever",
+      "Headache",
+      "Sensitivity to light",
+      "Fatigue"
+    ],
+    "risk_factors": [
+      "Age over 50",
+      "Weakened immune system",
+      "Stress",
+      "Had chickenpox",
+      "Cancer treatment"
+    ],
+    "precautions": [
+      "Get shingles vaccine (age 50+)",
+      "Manage stress",
+      "Boost immune system",
+      "Avoid contact with non-immune individuals"
+    ],
+    "severity": "Moderate",
+    "contagious": false,
+    "typical_duration": "Varies",
+    "treatment_available": true
+  },
+  {
+    "name": "Human Papillomavirus (HPV)",
+    "category": "** Viral Infection",
+    "icd_code": "** B97.7",
+    "symptoms": [
+      "Genital warts (some strains)",
+      "Often asymptomatic",
+      "Abnormal cervical cells",
+      "Skin warts (other strains)"
+    ],
+    "risk_factors": [
+      "Unprotected sex",
+      "Multiple partners",
+      "Early sexual activity",
+      "Weakened immune system"
+    ],
+    "precautions": [
+      "HPV vaccination",
+      "Safe sex practices",
+      "Regular cervical screening",
+      "Limit sexual partners",
+      "--"
+    ],
+    "severity": "Moderate",
+    "contagious": false,
+    "typical_duration": "Varies",
+    "treatment_available": true
+  },
+  {
+    "name": "Strep Throat (Streptococcal Pharyngitis)",
+    "category": "** Bacterial Infection",
+    "icd_code": "** J02.0",
+    "symptoms": [
+      "Severe sore throat",
+      "Pain when swallowing",
+      "Red, swollen tonsils",
+      "White patches on throat",
+      "Fever",
+      "Headache",
+      "Swollen lymph nodes",
+      "Rash (scarlet fever)",
+      "Nausea"
+    ],
+    "risk_factors": [
+      "Age (5-15 years)",
+      "Close contact in schools",
+      "Winter/early spring",
+      "Family history"
+    ],
+    "precautions": [
+      "Wash hands frequently",
+      "Don't share utensils",
+      "Cover coughs and sneezes",
+      "Replace toothbrush after infection"
+    ],
+    "severity": "Moderate",
+    "contagious": false,
+    "typical_duration": "Varies",
+    "treatment_available": true
+  },
+  {
+    "name": "Tuberculosis (TB)",
+    "category": "** Bacterial Infection",
+    "icd_code": "** A15",
+    "symptoms": [
+      "Persistent cough (3+ weeks)",
+      "Coughing up blood",
+      "Chest pain",
+      "Fatigue",
+      "Weight loss",
+      "Night sweats",
+      "Fever",
+      "Loss of appetite",
+      "Chills"
+    ],
+    "risk_factors": [
+      "Weakened immune system",
+      "Close contact with TB patient",
+      "Healthcare work",
+      "Substance abuse",
+      "Malnutrition",
+      "Crowded living conditions"
+    ],
+    "precautions": [
+      "BCG vaccine (in endemic areas)",
+      "Screen high-risk individuals",
+      "Complete treatment course",
+      "Isolate active cases",
+      "Improve ventilation"
+    ],
+    "severity": "Moderate",
+    "contagious": false,
+    "typical_duration": "Varies",
+    "treatment_available": true
+  },
+  {
+    "name": "Pneumonia (Bacterial)",
+    "category": "** Bacterial Infection",
+    "icd_code": "** J15",
+    "symptoms": [
+      "Cough with phlegm",
+      "Fever and chills",
+      "Shortness of breath",
+      "Chest pain when breathing",
+      "Fatigue",
+      "Nausea and vomiting",
+      "Confusion (elderly)",
+      "Rapid breathing"
+    ],
+    "risk_factors": [
+      "Age (young or elderly)",
+      "Smoking",
+      "Chronic lung disease",
+      "Weakened immune system",
+      "Hospitalization",
+      "Aspiration"
+    ],
+    "precautions": [
+      "Pneumococcal vaccine",
+      "Don't smoke",
+      "Practice good hygiene",
+      "Treat respiratory infections promptly",
+      "Maintain healthy lifestyle"
+    ],
+    "severity": "Moderate",
+    "contagious": false,
+    "typical_duration": "Varies",
+    "treatment_available": true
+  },
+  {
+    "name": "Urinary Tract Infection (UTI)",
+    "category": "** Bacterial Infection",
+    "icd_code": "** N39.0",
+    "symptoms": [
+      "Burning during urination",
+      "Frequent urination",
+      "Urgent need to urinate",
+      "Cloudy or bloody urine",
+      "Strong-smelling urine",
+      "Pelvic pain (women)",
+      "Lower back pain",
+      "Fever (if kidney involved)"
+    ],
+    "risk_factors": [
+      "Female anatomy",
+      "Sexual activity",
+      "Certain contraceptives",
+      "Menopause",
+      "Urinary tract abnormalities",
+      "Catheter use",
+      "Dehydration"
+    ],
+    "precautions": [
+      "Drink plenty of water",
+      "Urinate after intercourse",
+      "Wipe front to back",
+      "Avoid irritating feminine products",
+      "Don't hold urine",
+      "Cranberry supplements"
+    ],
+    "severity": "Moderate",
+    "contagious": false,
+    "typical_duration": "Varies",
+    "treatment_available": true
+  },
+  {
+    "name": "Salmonella (Food Poisoning)",
+    "category": "** Bacterial Infection",
+    "icd_code": "** A02",
+    "symptoms": [
+      "Diarrhea",
+      "Fever",
+      "Abdominal cramps",
+      "Nausea",
+      "Vomiting",
+      "Headache",
+      "Blood in stool"
+    ],
+    "risk_factors": [
+      "Undercooked poultry/eggs",
+      "Raw fruits and vegetables",
+      "Contaminated water",
+      "Poor food handling",
+      "Pet reptiles"
+    ],
+    "precautions": [
+      "Cook food thoroughly",
+      "Wash hands before cooking",
+      "Separate raw and cooked foods",
+      "Refrigerate promptly",
+      "Wash produce",
+      "Avoid raw eggs"
+    ],
+    "severity": "Moderate",
+    "contagious": false,
+    "typical_duration": "Varies",
+    "treatment_available": true
+  },
+  {
+    "name": "E. coli Infection",
+    "category": "** Bacterial Infection",
+    "icd_code": "** A04.4",
+    "symptoms": [
+      "Severe diarrhea (often bloody)",
+      "Abdominal cramping",
+      "Nausea and vomiting",
+      "Fever",
+      "Fatigue",
+      "Dehydration"
+    ],
+    "risk_factors": [
+      "Undercooked ground beef",
+      "Contaminated water",
+      "Raw milk",
+      "Unwashed produce",
+      "Person-to-person contact"
+    ],
+    "precautions": [
+      "Cook meat to 160\u00b0F",
+      "Avoid raw milk",
+      "Wash hands thoroughly",
+      "Clean produce",
+      "Drink safe water"
+    ],
+    "severity": "Moderate",
+    "contagious": false,
+    "typical_duration": "Varies",
+    "treatment_available": true
+  },
+  {
+    "name": "Lyme Disease",
+    "category": "** Bacterial Infection",
+    "icd_code": "** A69.2",
+    "symptoms": [
+      "Bull's-eye rash",
+      "Fever",
+      "Headache",
+      "Fatigue",
+      "Joint pain and swelling",
+      "Muscle aches",
+      "Chills",
+      "Swollen lymph nodes",
+      "Neurological problems (late stage)"
+    ],
+    "risk_factors": [
+      "Tick exposure",
+      "Outdoor activities in wooded areas",
+      "Not using tick prevention",
+      "Living in endemic areas"
+    ],
+    "precautions": [
+      "Use insect repellent",
+      "Wear protective clothing",
+      "Check for ticks after outdoor activities",
+      "Shower after being outdoors",
+      "Remove ticks promptly"
+    ],
+    "severity": "Moderate",
+    "contagious": false,
+    "typical_duration": "Varies",
+    "treatment_available": true
+  },
+  {
+    "name": "Meningitis (Bacterial)",
+    "category": "** Bacterial Infection",
+    "icd_code": "** G00",
+    "symptoms": [
+      "Sudden high fever",
+      "Severe headache",
+      "Stiff neck",
+      "Nausea and vomiting",
+      "Sensitivity to light",
+      "Confusion",
+      "Sleepiness",
+      "Seizures",
+      "Skin rash"
+    ],
+    "risk_factors": [
+      "Skipping vaccinations",
+      "Age (infants, teens, young adults)",
+      "Crowded settings",
+      "Weakened immune system"
+    ],
+    "precautions": [
+      "Get meningococcal vaccine",
+      "Practice good hygiene",
+      "Avoid sharing drinks/utensils",
+      "Maintain healthy immune system"
+    ],
+    "severity": "Moderate",
+    "contagious": false,
+    "typical_duration": "Varies",
+    "treatment_available": true
+  },
+  {
+    "name": "Tetanus",
+    "category": "** Bacterial Infection",
+    "icd_code": "** A35",
+    "symptoms": [
+      "Jaw cramping (lockjaw)",
+      "Muscle stiffness",
+      "Painful muscle spasms",
+      "Difficulty swallowing",
+      "Fever",
+      "Sweating",
+      "High blood pressure",
+      "Rapid heart rate"
+    ],
+    "risk_factors": [
+      "Puncture wounds",
+      "Not vaccinated/boosted",
+      "Dirty wounds",
+      "IV drug use",
+      "Burns"
+    ],
+    "precautions": [
+      "Get tetanus vaccine (every 10 years)",
+      "Clean wounds properly",
+      "Seek medical care for deep wounds",
+      "Proper wound care"
+    ],
+    "severity": "Moderate",
+    "contagious": false,
+    "typical_duration": "Varies",
+    "treatment_available": true
+  },
+  {
+    "name": "Whooping Cough (Pertussis)",
+    "category": "** Bacterial Infection",
+    "icd_code": "** A37",
+    "symptoms": [
+      "Severe coughing fits",
+      "\"Whooping\" sound when breathing",
+      "Vomiting after coughing",
+      "Exhaustion after coughing",
+      "Runny nose",
+      "Low-grade fever",
+      "Red, watery eyes"
+    ],
+    "risk_factors": [
+      "Not vaccinated",
+      "Infants under 6 months",
+      "Waning immunity",
+      "Close contact with infected person"
+    ],
+    "precautions": [
+      "DTaP vaccine for children",
+      "Tdap booster for adults",
+      "Vaccinate during pregnancy",
+      "Isolate infected individuals"
+    ],
+    "severity": "Moderate",
+    "contagious": false,
+    "typical_duration": "Varies",
+    "treatment_available": true
+  },
+  {
+    "name": "Botulism",
+    "category": "** Bacterial Infection",
+    "icd_code": "** A05.1",
+    "symptoms": [
+      "Blurred or double vision",
+      "Drooping eyelids",
+      "Slurred speech",
+      "Difficulty swallowing",
+      "Dry mouth",
+      "Muscle weakness",
+      "Paralysis",
+      "Difficulty breathing"
+    ],
+    "risk_factors": [
+      "Improperly canned foods",
+      "Infant honey consumption",
+      "Wound contamination",
+      "IV drug use"
+    ],
+    "precautions": [
+      "Proper food preservation",
+      "Don't give honey to infants under 1 year",
+      "Discard damaged canned goods",
+      "Refrigerate oils infused with garlic"
+    ],
+    "severity": "Moderate",
+    "contagious": false,
+    "typical_duration": "Varies",
+    "treatment_available": true
+  },
+  {
+    "name": "Anthrax",
+    "category": "** Bacterial Infection",
+    "icd_code": "** A22",
+    "symptoms": [
+      "Skin sores with black center",
+      "Fever",
+      "Fatigue",
+      "Headache",
+      "Nausea",
+      "Difficulty breathing (inhalation type)",
+      "Chest discomfort",
+      "Confusion"
+    ],
+    "risk_factors": [
+      "Contact with infected animals",
+      "Handling animal products",
+      "Bioterrorism exposure",
+      "Laboratory work"
+    ],
+    "precautions": [
+      "Vaccine (high-risk occupations)",
+      "Avoid contact with infected animals",
+      "Proper handling of animal products",
+      "Prompt treatment of exposure"
+    ],
+    "severity": "Moderate",
+    "contagious": false,
+    "typical_duration": "Varies",
+    "treatment_available": true
+  },
+  {
+    "name": "Cholera",
+    "category": "** Bacterial Infection",
+    "icd_code": "** A00",
+    "symptoms": [
+      "Severe watery diarrhea",
+      "Vomiting",
+      "Rapid dehydration",
+      "Muscle cramps",
+      "Low blood pressure",
+      "Rapid heart rate",
+      "Sunken eyes",
+      "Dry mouth"
+    ],
+    "risk_factors": [
+      "Contaminated water/food",
+      "Poor sanitation",
+      "Crowded conditions",
+      "Natural disasters",
+      "Travel to endemic areas"
+    ],
+    "precautions": [
+      "Drink safe water",
+      "Practice good hygiene",
+      "Proper sewage disposal",
+      "Food safety",
+      "Oral cholera vaccine (travelers)"
+    ],
+    "severity": "Moderate",
+    "contagious": false,
+    "typical_duration": "Varies",
+    "treatment_available": true
+  },
+  {
+    "name": "Typhoid Fever",
+    "category": "** Bacterial Infection",
+    "icd_code": "** A01.0",
+    "symptoms": [
+      "Prolonged high fever",
+      "Headache",
+      "Weakness and fatigue",
+      "Abdominal pain",
+      "Constipation or diarrhea",
+      "Rose-colored spots on chest",
+      "Enlarged spleen and liver"
+    ],
+    "risk_factors": [
+      "Contaminated food/water",
+      "Poor sanitation",
+      "Travel to endemic areas",
+      "Close contact with carrier"
+    ],
+    "precautions": [
+      "Typhoid vaccine",
+      "Drink safe water",
+      "Avoid raw foods",
+      "Practice good hygiene",
+      "Wash hands frequently"
+    ],
+    "severity": "Moderate",
+    "contagious": false,
+    "typical_duration": "Varies",
+    "treatment_available": true
+  },
+  {
+    "name": "Syphilis",
+    "category": "** Bacterial Infection - STI",
+    "icd_code": "** A53",
+    "symptoms": [
+      "Painless sore (chancre)",
+      "Rash on palms and soles",
+      "Fever",
+      "Swollen lymph nodes",
+      "Fatigue",
+      "Hair loss",
+      "Weight loss",
+      "Neurological problems (late stage)"
+    ],
+    "risk_factors": [
+      "Unprotected sex",
+      "Multiple partners",
+      "Men who have sex with men",
+      "HIV infection"
+    ],
+    "precautions": [
+      "Practice safe sex",
+      "Use condoms",
+      "Get tested regularly",
+      "Limit sexual partners",
+      "Treat infected partners",
+      "--"
+    ],
+    "severity": "Moderate",
+    "contagious": false,
+    "typical_duration": "Varies",
+    "treatment_available": true
+  },
+  {
+    "name": "Athlete's Foot (Tinea Pedis)",
+    "category": "** Fungal Infection",
+    "icd_code": "** B35.3",
+    "symptoms": [
+      "Itchy, scaly rash between toes",
+      "Burning sensation",
+      "Cracked, peeling skin",
+      "Redness",
+      "Blisters",
+      "Dry skin on soles",
+      "Foul odor"
+    ],
+    "risk_factors": [
+      "Walking barefoot in public areas",
+      "Sweaty feet",
+      "Tight shoes",
+      "Shared towels",
+      "Weakened immune system"
+    ],
+    "precautions": [
+      "Keep feet dry",
+      "Wear sandals in public showers",
+      "Change socks daily",
+      "Use antifungal powder",
+      "Don't share footwear"
+    ],
+    "severity": "Moderate",
+    "contagious": false,
+    "typical_duration": "Varies",
+    "treatment_available": true
+  },
+  {
+    "name": "Ringworm (Tinea Corporis)",
+    "category": "** Fungal Infection",
+    "icd_code": "** B35.4",
+    "symptoms": [
+      "Ring-shaped rash",
+      "Itchy skin",
+      "Red, scaly patches",
+      "Raised edges",
+      "Clear center",
+      "Multiple rings"
+    ],
+    "risk_factors": [
+      "Contact with infected person/animal",
+      "Warm, moist environments",
+      "Weakened immune system",
+      "Contact sports"
+    ],
+    "precautions": [
+      "Avoid sharing personal items",
+      "Keep skin clean and dry",
+      "Wash hands after touching animals",
+      "Avoid infected individuals",
+      "Clean sports equipment"
+    ],
+    "severity": "Moderate",
+    "contagious": false,
+    "typical_duration": "Varies",
+    "treatment_available": true
+  },
+  {
+    "name": "Candidiasis (Yeast Infection)",
+    "category": "** Fungal Infection",
+    "icd_code": "** B37",
+    "symptoms": [
+      "Itching and irritation",
+      "White, cottage cheese-like discharge",
+      "Redness and swelling",
+      "Burning during urination",
+      "Pain during intercourse",
+      "Rash"
+    ],
+    "risk_factors": [
+      "Antibiotic use",
+      "Diabetes",
+      "Weakened immune system",
+      "Pregnancy",
+      "Oral contraceptives",
+      "Tight clothing"
+    ],
+    "precautions": [
+      "Wear cotton underwear",
+      "Avoid tight clothing",
+      "Limit sugar intake",
+      "Probiotics",
+      "Good hygiene",
+      "Avoid douching"
+    ],
+    "severity": "Moderate",
+    "contagious": false,
+    "typical_duration": "Varies",
+    "treatment_available": true
+  },
+  {
+    "name": "Nail Fungus (Onychomycosis)",
+    "category": "** Fungal Infection",
+    "icd_code": "** B35.1",
+    "symptoms": [
+      "Thickened nails",
+      "Discolored nails (yellow/brown)",
+      "Brittle, crumbly nails",
+      "Distorted nail shape",
+      "Foul smell",
+      "Separation from nail bed"
+    ],
+    "risk_factors": [
+      "Age",
+      "Sweaty feet",
+      "Athlete's foot",
+      "Walking barefoot in damp areas",
+      "Nail injury",
+      "Diabetes",
+      "Weakened immune system"
+    ],
+    "precautions": [
+      "Keep nails trimmed",
+      "Wear breathable shoes",
+      "Change socks frequently",
+      "Avoid walking barefoot in public",
+      "Use antifungal powder"
+    ],
+    "severity": "Moderate",
+    "contagious": false,
+    "typical_duration": "Varies",
+    "treatment_available": true
+  },
+  {
+    "name": "Jock Itch (Tinea Cruris)",
+    "category": "** Fungal Infection",
+    "icd_code": "** B35.6",
+    "symptoms": [
+      "Red, itchy rash in groin",
+      "Burning sensation",
+      "Flaking, peeling skin",
+      "Rash spreading to thighs",
+      "Raised edges"
+    ],
+    "risk_factors": [
+      "Male gender",
+      "Tight clothing",
+      "Obesity",
+      "Excessive sweating",
+      "Weakened immune system"
+    ],
+    "precautions": [
+      "Keep groin area dry",
+      "Wear loose-fitting underwear",
+      "Change athletic supporters regularly",
+      "Don't share towels",
+      "Shower after exercise",
+      "--"
+    ],
+    "severity": "Moderate",
+    "contagious": false,
+    "typical_duration": "Varies",
+    "treatment_available": true
+  },
+  {
+    "name": "Malaria",
+    "category": "** Parasitic Disease",
+    "icd_code": "** B50-B54",
+    "symptoms": [
+      "High fever",
+      "Chills and sweats",
+      "Headache",
+      "Nausea and vomiting",
+      "Muscle pain",
+      "Fatigue",
+      "Diarrhea",
+      "Anemia",
+      "Jaundice"
+    ],
+    "risk_factors": [
+      "Travel to endemic areas",
+      "No antimalarial prophylaxis",
+      "Mosquito exposure",
+      "Living in tropical regions",
+      "Pregnancy"
+    ],
+    "precautions": [
+      "Take antimalarial medication",
+      "Use mosquito nets",
+      "Apply insect repellent",
+      "Wear protective clothing",
+      "Stay in screened areas"
+    ],
+    "severity": "Moderate",
+    "contagious": false,
+    "typical_duration": "Varies",
+    "treatment_available": true
+  },
+  {
+    "name": "Giardiasis",
+    "category": "** Parasitic Disease",
+    "icd_code": "** A07.1",
+    "symptoms": [
+      "Diarrhea",
+      "Gas and bloating",
+      "Abdominal cramps",
+      "Nausea",
+      "Dehydration",
+      "Weight loss",
+      "Greasy stools",
+      "Fatigue"
+    ],
+    "risk_factors": [
+      "Contaminated water",
+      "Poor sanitation",
+      "Daycare settings",
+      "Camping/hiking",
+      "Swimming in lakes"
+    ],
+    "precautions": [
+      "Drink safe water",
+      "Practice good hygiene",
+      "Avoid swallowing lake/pool water",
+      "Wash hands frequently",
+      "Boil or filter water when camping"
+    ],
+    "severity": "Moderate",
+    "contagious": false,
+    "typical_duration": "Varies",
+    "treatment_available": true
+  },
+  {
+    "name": "Toxoplasmosis",
+    "category": "** Parasitic Disease",
+    "icd_code": "** B58",
+    "symptoms": [
+      "Flu-like symptoms",
+      "Swollen lymph nodes",
+      "Headache",
+      "Fever",
+      "Fatigue",
+      "Muscle aches",
+      "Often asymptomatic",
+      "Eye problems (in some cases)"
+    ],
+    "risk_factors": [
+      "Cat ownership",
+      "Eating undercooked meat",
+      "Gardening",
+      "Weakened immune system",
+      "Pregnancy (risk to fetus)"
+    ],
+    "precautions": [
+      "Cook meat thoroughly",
+      "Wash hands after handling raw meat",
+      "Avoid cat litter when pregnant",
+      "Wear gloves while gardening",
+      "Wash produce thoroughly"
+    ],
+    "severity": "Moderate",
+    "contagious": false,
+    "typical_duration": "Varies",
+    "treatment_available": true
+  },
+  {
+    "name": "Pinworms (Enterobiasis)",
+    "category": "** Parasitic Disease",
+    "icd_code": "** B80",
+    "symptoms": [
+      "Intense anal itching",
+      "Difficulty sleeping",
+      "Irritability",
+      "Abdominal pain",
+      "Nausea",
+      "Visible worms in stool"
+    ],
+    "risk_factors": [
+      "Age (children 5-10)",
+      "Crowded living conditions",
+      "Poor hygiene",
+      "Nail biting"
+    ],
+    "precautions": [
+      "Wash hands frequently",
+      "Keep nails short",
+      "Shower in morning",
+      "Change underwear daily",
+      "Wash bedding in hot water"
+    ],
+    "severity": "Moderate",
+    "contagious": false,
+    "typical_duration": "Varies",
+    "treatment_available": true
+  },
+  {
+    "name": "Scabies",
+    "category": "** Parasitic Disease",
+    "icd_code": "** B86",
+    "symptoms": [
+      "Intense itching (worse at night)",
+      "Pimple-like rash",
+      "Burrow tracks",
+      "Sores from scratching",
+      "Thick crusts (severe cases)"
+    ],
+    "risk_factors": [
+      "Close physical contact",
+      "Crowded living conditions",
+      "Sexual contact",
+      "Institutional settings"
+    ],
+    "precautions": [
+      "Avoid skin-to-skin contact",
+      "Don't share clothing/bedding",
+      "Treat all household members",
+      "Wash items in hot water",
+      "Vacuum thoroughly",
+      "--"
+    ],
+    "severity": "Moderate",
+    "contagious": false,
+    "typical_duration": "Varies",
+    "treatment_available": true
+  },
+  {
+    "name": "Rheumatoid Arthritis",
+    "category": "** Autoimmune Disorder",
+    "icd_code": "** M05",
+    "symptoms": [
+      "Joint pain and swelling",
+      "Morning stiffness",
+      "Fatigue",
+      "Fever",
+      "Weight loss",
+      "Symmetrical joint involvement",
+      "Loss of joint function",
+      "Rheumatoid nodules"
+    ],
+    "risk_factors": [
+      "Female gender",
+      "Age (40-60)",
+      "Family history",
+      "Smoking",
+      "Obesity",
+      "Environmental exposures"
+    ],
+    "precautions": [
+      "Don't smoke",
+      "Maintain healthy weight",
+      "Exercise regularly",
+      "Early diagnosis and treatment",
+      "Manage stress"
+    ],
+    "severity": "Moderate",
+    "contagious": false,
+    "typical_duration": "Varies",
+    "treatment_available": true
+  },
+  {
+    "name": "Lupus (SLE)",
+    "category": "** Autoimmune Disorder",
+    "icd_code": "** M32",
+    "symptoms": [
+      "Butterfly rash on face",
+      "Fatigue",
+      "Joint pain and swelling",
+      "Fever",
+      "Photosensitivity",
+      "Hair loss",
+      "Mouth sores",
+      "Kidney problems",
+      "Chest pain"
+    ],
+    "risk_factors": [
+      "Female gender",
+      "Age (15-45)",
+      "Race (African American, Asian, Hispanic)",
+      "Family history",
+      "Certain medications"
+    ],
+    "precautions": [
+      "Avoid sun exposure",
+      "Use sunscreen",
+      "Don't smoke",
+      "Manage stress",
+      "Regular medical checkups",
+      "Avoid triggers"
+    ],
+    "severity": "Moderate",
+    "contagious": false,
+    "typical_duration": "Varies",
+    "treatment_available": true
+  },
+  {
+    "name": "Type 1 Diabetes",
+    "category": "** Autoimmune Disorder",
+    "icd_code": "** E10",
+    "symptoms": [
+      "Increased thirst",
+      "Frequent urination",
+      "Extreme hunger",
+      "Unintended weight loss",
+      "Fatigue",
+      "Blurred vision",
+      "Slow-healing sores",
+      "Mood changes"
+    ],
+    "risk_factors": [
+      "Family history",
+      "Genetics",
+      "Geography",
+      "Age (peaks in children)",
+      "Viral infections"
+    ],
+    "precautions": [
+      "Monitor blood sugar",
+      "Insulin therapy",
+      "Healthy diet",
+      "Regular exercise",
+      "Regular checkups",
+      "Foot care"
+    ],
+    "severity": "Moderate",
+    "contagious": false,
+    "typical_duration": "Varies",
+    "treatment_available": true
+  },
+  {
+    "name": "Multiple Sclerosis (MS)",
+    "category": "** Autoimmune Disorder",
+    "icd_code": "** G35",
+    "symptoms": [
+      "Numbness or weakness",
+      "Vision problems",
+      "Tingling sensations",
+      "Electric-shock sensations",
+      "Lack of coordination",
+      "Slurred speech",
+      "Fatigue",
+      "Dizziness",
+      "Bladder problems"
+    ],
+    "risk_factors": [
+      "Age (20-40)",
+      "Female gender",
+      "Family history",
+      "Certain infections",
+      "Race (white/Northern European)",
+      "Vitamin D deficiency",
+      "Smoking"
+    ],
+    "precautions": [
+      "Vitamin D supplementation",
+      "Don't smoke",
+      "Manage stress",
+      "Stay active",
+      "Early treatment",
+      "Healthy diet"
+    ],
+    "severity": "Moderate",
+    "contagious": false,
+    "typical_duration": "Varies",
+    "treatment_available": true
+  },
+  {
+    "name": "Celiac Disease",
+    "category": "** Autoimmune Disorder",
+    "icd_code": "** K90.0",
+    "symptoms": [
+      "Diarrhea",
+      "Abdominal pain",
+      "Bloating and gas",
+      "Fatigue",
+      "Weight loss",
+      "Anemia",
+      "Osteoporosis",
+      "Skin rash (dermatitis herpetiformis)",
+      "Headaches"
+    ],
+    "risk_factors": [
+      "Family history",
+      "Type 1 diabetes",
+      "Other autoimmune diseases",
+      "Down syndrome",
+      "Turner syndrome"
+    ],
+    "precautions": [
+      "Strict gluten-free diet",
+      "Read food labels",
+      "Avoid cross-contamination",
+      "Nutritional supplements",
+      "Regular monitoring",
+      "--"
+    ],
+    "severity": "Moderate",
+    "contagious": false,
+    "typical_duration": "Varies",
+    "treatment_available": true
+  },
+  {
+    "name": "Down Syndrome",
+    "category": "** Genetic Disorder",
+    "icd_code": "** Q90",
+    "symptoms": [
+      "Flattened face",
+      "Short neck",
+      "Small ears",
+      "Poor muscle tone",
+      "Intellectual disability",
+      "Delayed development",
+      "Short stature",
+      "Heart defects"
+    ],
+    "risk_factors": [
+      "Advanced maternal age",
+      "Parents with chromosomal translocation",
+      "Previous child with Down syndrome"
+    ],
+    "precautions": [
+      "Prenatal screening",
+      "Early intervention programs",
+      "Regular health monitoring",
+      "Special education",
+      "Therapy (physical, occupational, speech)"
+    ],
+    "severity": "Moderate",
+    "contagious": false,
+    "typical_duration": "Varies",
+    "treatment_available": true
+  },
+  {
+    "name": "Cystic Fibrosis",
+    "category": "** Genetic Disorder",
+    "icd_code": "** E84",
+    "symptoms": [
+      "Persistent cough with thick mucus",
+      "Wheezing",
+      "Frequent lung infections",
+      "Poor growth",
+      "Greasy, bulky stools",
+      "Difficulty gaining weight",
+      "Salty-tasting skin",
+      "Male infertility"
+    ],
+    "risk_factors": [
+      "Family history",
+      "Caucasian ethnicity",
+      "Both parents carriers"
+    ],
+    "precautions": [
+      "Genetic counseling",
+      "Newborn screening",
+      "Chest physiotherapy",
+      "Enzyme supplements",
+      "High-calorie diet",
+      "Prevent infections"
+    ],
+    "severity": "Moderate",
+    "contagious": false,
+    "typical_duration": "Varies",
+    "treatment_available": true
+  },
+  {
+    "name": "Sickle Cell Disease",
+    "category": "** Genetic Disorder",
+    "icd_code": "** D57",
+    "symptoms": [
+      "Anemia",
+      "Episodes of pain (crises)",
+      "Swelling of hands and feet",
+      "Frequent infections",
+      "Delayed growth",
+      "Vision problems",
+      "Fatigue",
+      "Jaundice"
+    ],
+    "risk_factors": [
+      "African ancestry",
+      "Hispanic ancestry",
+      "Family history",
+      "Both parents carriers"
+    ],
+    "precautions": [
+      "Newborn screening",
+      "Prophylactic antibiotics",
+      "Vaccinations",
+      "Avoid triggers (dehydration, extreme temperatures)",
+      "Folic acid supplements",
+      "Regular medical care"
+    ],
+    "severity": "Moderate",
+    "contagious": false,
+    "typical_duration": "Varies",
+    "treatment_available": true
+  },
+  {
+    "name": "Hemophilia",
+    "category": "** Genetic Disorder",
+    "icd_code": "** D66-D67",
+    "symptoms": [
+      "Excessive bleeding",
+      "Easy bruising",
+      "Spontaneous bleeding",
+      "Joint pain and swelling",
+      "Blood in urine or stool",
+      "Prolonged bleeding from cuts",
+      "Nosebleeds"
+    ],
+    "risk_factors": [
+      "Family history",
+      "Male gender (X-linked)"
+    ],
+    "precautions": [
+      "Avoid contact sports",
+      "Clotting factor replacement",
+      "Avoid aspirin and NSAIDs",
+      "Dental care",
+      "Genetic counseling",
+      "Medical alert bracelet"
+    ],
+    "severity": "Moderate",
+    "contagious": false,
+    "typical_duration": "Varies",
+    "treatment_available": true
+  },
+  {
+    "name": "Huntington's Disease",
+    "category": "** Genetic Disorder",
+    "icd_code": "** G10",
+    "symptoms": [
+      "Involuntary movements",
+      "Impaired coordination",
+      "Difficulty speaking",
+      "Difficulty swallowing",
+      "Cognitive decline",
+      "Depression",
+      "Irritability",
+      "Personality changes"
+    ],
+    "risk_factors": [
+      "Family history (autosomal dominant)",
+      "Age (typically 30-50)"
+    ],
+    "precautions": [
+      "Genetic testing and counseling",
+      "Symptom management",
+      "Physical therapy",
+      "Speech therapy",
+      "Mental health support",
+      "Advanced care planning",
+      "--"
+    ],
+    "severity": "Moderate",
+    "contagious": false,
+    "typical_duration": "Varies",
+    "treatment_available": true
+  },
+  {
+    "name": "Type 2 Diabetes",
+    "category": "** Metabolic Disorder",
+    "icd_code": "** E11",
+    "symptoms": [
+      "Increased thirst",
+      "Frequent urination",
+      "Increased hunger",
+      "Fatigue",
+      "Blurred vision",
+      "Slow-healing sores",
+      "Frequent infections",
+      "Darkened skin areas",
+      "Tingling in hands/feet"
+    ],
+    "risk_factors": [
+      "Obesity",
+      "Physical inactivity",
+      "Family history",
+      "Age over 45",
+      "Prediabetes",
+      "Gestational diabetes history",
+      "Polycystic ovary syndrome",
+      "High blood pressure"
+    ],
+    "precautions": [
+      "Maintain healthy weight",
+      "Exercise regularly",
+      "Healthy diet",
+      "Limit sugar and refined carbs",
+      "Monitor blood sugar",
+      "Regular checkups"
+    ],
+    "severity": "Moderate",
+    "contagious": false,
+    "typical_duration": "Varies",
+    "treatment_available": true
+  },
+  {
+    "name": "Hypothyroidism",
+    "category": "** Metabolic/Endocrine Disorder",
+    "icd_code": "** E03",
+    "symptoms": [
+      "Fatigue",
+      "Weight gain",
+      "Cold intolerance",
+      "Constipation",
+      "Dry skin",
+      "Hair loss",
+      "Muscle weakness",
+      "Depression",
+      "Memory problems",
+      "Puffy face"
+    ],
+    "risk_factors": [
+      "Female gender",
+      "Age over 60",
+      "Family history",
+      "Autoimmune disease",
+      "Previous thyroid surgery",
+      "Radiation therapy",
+      "Certain medications"
+    ],
+    "precautions": [
+      "Thyroid hormone replacement",
+      "Regular monitoring",
+      "Consistent medication timing",
+      "Adequate iodine intake",
+      "Regular checkups"
+    ],
+    "severity": "Moderate",
+    "contagious": false,
+    "typical_duration": "Varies",
+    "treatment_available": true
+  },
+  {
+    "name": "Hyperthyroidism",
+    "category": "** Metabolic/Endocrine Disorder",
+    "icd_code": "** E05",
+    "symptoms": [
+      "Weight loss",
+      "Rapid heartbeat",
+      "Increased appetite",
+      "Nervousness and anxiety",
+      "Tremor",
+      "Sweating",
+      "Heat intolerance",
+      "Frequent bowel movements",
+      "Enlarged thyroid",
+      "Sleep problems"
+    ],
+    "risk_factors": [
+      "Female gender",
+      "Family history",
+      "Age (over 60)",
+      "Personal history of chronic illness",
+      "Smoking (Graves' disease)"
+    ],
+    "precautions": [
+      "Medication compliance",
+      "Avoid iodine excess",
+      "Manage stress",
+      "Regular monitoring",
+      "Eye protection (Graves')"
+    ],
+    "severity": "Moderate",
+    "contagious": false,
+    "typical_duration": "Varies",
+    "treatment_available": true
+  },
+  {
+    "name": "Gout",
+    "category": "** Metabolic Disorder",
+    "icd_code": "** M10",
+    "symptoms": [
+      "Intense joint pain (often big toe)",
+      "Redness and swelling",
+      "Heat in affected joint",
+      "Limited range of motion",
+      "Lingering discomfort",
+      "Inflammation"
+    ],
+    "risk_factors": [
+      "High purine diet",
+      "Obesity",
+      "Male gender",
+      "Age",
+      "Family history",
+      "Alcohol consumption",
+      "Certain medications",
+      "Kidney disease"
+    ],
+    "precautions": [
+      "Limit purine-rich foods",
+      "Stay hydrated",
+      "Limit alcohol",
+      "Maintain healthy weight",
+      "Medication as prescribed",
+      "Avoid trigger foods"
+    ],
+    "severity": "Moderate",
+    "contagious": false,
+    "typical_duration": "Varies",
+    "treatment_available": true
+  },
+  {
+    "name": "Phenylketonuria (PKU)",
+    "category": "** Metabolic Disorder",
+    "icd_code": "** E70.0",
+    "symptoms": [
+      "Intellectual disability (untreated)",
+      "Behavioral problems",
+      "Seizures",
+      "Skin rashes",
+      "Musty odor",
+      "Fair skin and hair",
+      "Hyperactivity"
+    ],
+    "risk_factors": [
+      "Both parents carriers",
+      "Family history",
+      "Certain ethnic backgrounds"
+    ],
+    "precautions": [
+      "Newborn screening",
+      "Low-phenylalanine diet",
+      "Special medical foods",
+      "Regular blood tests",
+      "Lifelong dietary management",
+      "Genetic counseling",
+      "--"
+    ],
+    "severity": "Moderate",
+    "contagious": false,
+    "typical_duration": "Varies",
+    "treatment_available": true
+  },
+  {
+    "name": "Hypertension (High Blood Pressure)",
+    "category": "** Cardiovascular Disease",
+    "icd_code": "** I10",
+    "symptoms": [
+      "Often no symptoms",
+      "Headaches",
+      "Shortness of breath",
+      "Nosebleeds",
+      "Dizziness",
+      "Chest pain",
+      "Vision changes"
+    ],
+    "risk_factors": [
+      "Age",
+      "Family history",
+      "Obesity",
+      "Physical inactivity",
+      "High salt diet",
+      "Smoking",
+      "Excessive alcohol",
+      "Stress",
+      "Chronic conditions (diabetes, kidney disease)"
+    ],
+    "precautions": [
+      "Healthy diet (DASH diet)",
+      "Reduce sodium",
+      "Regular exercise",
+      "Maintain healthy weight",
+      "Limit alcohol",
+      "Don't smoke",
+      "Manage stress",
+      "Regular monitoring"
+    ],
+    "severity": "Moderate",
+    "contagious": false,
+    "typical_duration": "Varies",
+    "treatment_available": true
+  },
+  {
+    "name": "Coronary Artery Disease",
+    "category": "** Cardiovascular Disease",
+    "icd_code": "** I25",
+    "symptoms": [
+      "Chest pain (angina)",
+      "Shortness of breath",
+      "Heart palpitations",
+      "Fatigue",
+      "Weakness",
+      "Nausea"
+    ],
+    "risk_factors": [
+      "High cholesterol",
+      "High blood pressure",
+      "Smoking",
+      "Diabetes",
+      "Obesity",
+      "Family history",
+      "Sedentary lifestyle",
+      "Stress",
+      "Age"
+    ],
+    "precautions": [
+      "Heart-healthy diet",
+      "Regular exercise",
+      "Don't smoke",
+      "Manage cholesterol",
+      "Control blood pressure",
+      "Manage diabetes",
+      "Maintain healthy weight",
+      "Stress management"
+    ],
+    "severity": "Moderate",
+    "contagious": false,
+    "typical_duration": "Varies",
+    "treatment_available": true
+  },
+  {
+    "name": "Heart Failure",
+    "category": "** Cardiovascular Disease",
+    "icd_code": "** I50",
+    "symptoms": [
+      "Shortness of breath",
+      "Fatigue",
+      "Swelling in legs/ankles",
+      "Rapid or irregular heartbeat",
+      "Reduced exercise tolerance",
+      "Persistent cough",
+      "Wheezing",
+      "Fluid retention",
+      "Sudden weight gain"
+    ],
+    "risk_factors": [
+      "Coronary artery disease",
+      "Previous heart attack",
+      "High blood pressure",
+      "Diabetes",
+      "Obesity",
+      "Smoking",
+      "Alcohol abuse",
+      "Sleep apnea"
+    ],
+    "precautions": [
+      "Medication compliance",
+      "Limit sodium",
+      "Monitor weight daily",
+      "Limit fluids as directed",
+      "Regular exercise as tolerated",
+      "Avoid smoking",
+      "Manage underlying conditions"
+    ],
+    "severity": "Moderate",
+    "contagious": false,
+    "typical_duration": "Varies",
+    "treatment_available": true
+  },
+  {
+    "name": "Atrial Fibrillation",
+    "category": "** Cardiovascular Disease",
+    "icd_code": "** I48",
+    "symptoms": [
+      "Heart palpitations",
+      "Rapid heartbeat",
+      "Shortness of breath",
+      "Chest pain",
+      "Fatigue",
+      "Dizziness",
+      "Lightheadedness",
+      "Weakness"
+    ],
+    "risk_factors": [
+      "Age",
+      "Heart disease",
+      "High blood pressure",
+      "Thyroid problems",
+      "Sleep apnea",
+      "Obesity",
+      "Excessive alcohol",
+      "Family history"
+    ],
+    "precautions": [
+      "Medication compliance",
+      "Manage blood pressure",
+      "Limit caffeine and alcohol",
+      "Manage stress",
+      "Treat underlying conditions",
+      "Maintain healthy lifestyle"
+    ],
+    "severity": "Moderate",
+    "contagious": false,
+    "typical_duration": "Varies",
+    "treatment_available": true
+  },
+  {
+    "name": "Stroke",
+    "category": "** Cardiovascular/Neurological",
+    "icd_code": "** I63 (Ischemic), I61 (Hemorrhagic)",
+    "symptoms": [
+      "Sudden numbness or weakness (face, arm, leg)",
+      "Confusion",
+      "Trouble speaking",
+      "Difficulty understanding",
+      "Vision problems",
+      "Difficulty walking",
+      "Loss of balance",
+      "Severe headache",
+      "Dizziness"
+    ],
+    "risk_factors": [
+      "High blood pressure",
+      "Smoking",
+      "Diabetes",
+      "High cholesterol",
+      "Obesity",
+      "Atrial fibrillation",
+      "Age",
+      "Family history",
+      "Previous stroke/TIA"
+    ],
+    "precautions": [
+      "Control blood pressure",
+      "Don't smoke",
+      "Manage diabetes",
+      "Healthy diet",
+      "Regular exercise",
+      "Limit alcohol",
+      "Maintain healthy weight",
+      "Treat atrial fibrillation",
+      "--"
+    ],
+    "severity": "Moderate",
+    "contagious": false,
+    "typical_duration": "Varies",
+    "treatment_available": true
+  },
+  {
+    "name": "Asthma",
+    "category": "** Respiratory Disease",
+    "icd_code": "** J45",
+    "symptoms": [
+      "Shortness of breath",
+      "Chest tightness",
+      "Wheezing",
+      "Coughing (especially at night)",
+      "Rapid breathing",
+      "Difficulty speaking",
+      "Anxiety or panic",
+      "Fatigue"
+    ],
+    "risk_factors": [
+      "Family history",
+      "Allergies",
+      "Childhood respiratory infections",
+      "Smoking exposure",
+      "Obesity",
+      "Air pollution",
+      "Occupational exposures"
+    ],
+    "precautions": [
+      "Avoid triggers",
+      "Use controller medications",
+      "Have rescue inhaler available",
+      "Monitor symptoms",
+      "Avoid smoking/smoke",
+      "Reduce allergen exposure",
+      "Get flu vaccine"
+    ],
+    "severity": "Moderate",
+    "contagious": false,
+    "typical_duration": "Varies",
+    "treatment_available": true
+  },
+  {
+    "name": "Chronic Obstructive Pulmonary Disease (COPD)",
+    "category": "** Respiratory Disease",
+    "icd_code": "** J44",
+    "symptoms": [
+      "Chronic cough",
+      "Mucus production",
+      "Shortness of breath",
+      "Wheezing",
+      "Chest tightness",
+      "Fatigue",
+      "Frequent respiratory infections",
+      "Blue lips or fingernails",
+      "Weight loss"
+    ],
+    "risk_factors": [
+      "Smoking (primary cause)",
+      "Long-term exposure to lung irritants",
+      "Alpha-1 antitrypsin deficiency",
+      "Age",
+      "Asthma history",
+      "Childhood respiratory infections"
+    ],
+    "precautions": [
+      "Don't smoke/quit smoking",
+      "Avoid lung irritants",
+      "Use prescribed medications",
+      "Pulmonary rehabilitation",
+      "Get vaccinated (flu, pneumonia)",
+      "Oxygen therapy if needed"
+    ],
+    "severity": "Moderate",
+    "contagious": false,
+    "typical_duration": "Varies",
+    "treatment_available": true
+  },
+  {
+    "name": "Bronchitis (Acute)",
+    "category": "** Respiratory Disease",
+    "icd_code": "** J20",
+    "symptoms": [
+      "Cough with mucus",
+      "Fatigue",
+      "Shortness of breath",
+      "Chest discomfort",
+      "Low-grade fever",
+      "Chills",
+      "Wheezing"
+    ],
+    "risk_factors": [
+      "Smoking",
+      "Weakened immune system",
+      "Exposure to irritants",
+      "Gastric reflux",
+      "Recent cold or flu"
+    ],
+    "precautions": [
+      "Don't smoke",
+      "Wash hands frequently",
+      "Avoid lung irritants",
+      "Get vaccinated (flu)",
+      "Rest when sick",
+      "Stay hydrated"
+    ],
+    "severity": "Moderate",
+    "contagious": false,
+    "typical_duration": "Varies",
+    "treatment_available": true
+  },
+  {
+    "name": "Bronchitis (Chronic)",
+    "category": "** Respiratory Disease",
+    "icd_code": "** J42",
+    "symptoms": [
+      "Productive cough (3+ months)",
+      "Mucus production",
+      "Shortness of breath",
+      "Wheezing",
+      "Fatigue",
+      "Frequent respiratory infections",
+      "Chest discomfort"
+    ],
+    "risk_factors": [
+      "Smoking",
+      "Long-term exposure to irritants",
+      "Age",
+      "Family history",
+      "Gastric reflux"
+    ],
+    "precautions": [
+      "Quit smoking",
+      "Avoid lung irritants",
+      "Use prescribed inhalers",
+      "Pulmonary rehabilitation",
+      "Stay active",
+      "Get vaccinated"
+    ],
+    "severity": "Moderate",
+    "contagious": false,
+    "typical_duration": "Varies",
+    "treatment_available": true
+  },
+  {
+    "name": "Sleep Apnea",
+    "category": "** Respiratory/Sleep Disorder",
+    "icd_code": "** G47.3",
+    "symptoms": [
+      "Loud snoring",
+      "Gasping for air during sleep",
+      "Morning headache",
+      "Excessive daytime sleepiness",
+      "Difficulty concentrating",
+      "Irritability",
+      "High blood pressure",
+      "Night sweats"
+    ],
+    "risk_factors": [
+      "Obesity",
+      "Neck circumference",
+      "Narrowed airway",
+      "Male gender",
+      "Age",
+      "Family history",
+      "Smoking",
+      "Alcohol use"
+    ],
+    "precautions": [
+      "Lose weight if overweight",
+      "Sleep on your side",
+      "Avoid alcohol before bed",
+      "Quit smoking",
+      "Treat nasal congestion",
+      "Use CPAP machine if prescribed",
+      "--"
+    ],
+    "severity": "Moderate",
+    "contagious": false,
+    "typical_duration": "Varies",
+    "treatment_available": true
+  },
+  {
+    "name": "Alzheimer's Disease",
+    "category": "** Neurological Disorder",
+    "icd_code": "** G30",
+    "symptoms": [
+      "Memory loss",
+      "Confusion",
+      "Difficulty with familiar tasks",
+      "Problems with words",
+      "Misplacing things",
+      "Poor judgment",
+      "Withdrawal from activities",
+      "Personality changes",
+      "Difficulty planning"
+    ],
+    "risk_factors": [
+      "Age",
+      "Family history",
+      "Down syndrome",
+      "Head trauma",
+      "Cardiovascular disease",
+      "Poor sleep patterns",
+      "Lack of exercise",
+      "Smoking",
+      "Obesity"
+    ],
+    "precautions": [
+      "Stay mentally active",
+      "Exercise regularly",
+      "Healthy diet (Mediterranean)",
+      "Maintain social connections",
+      "Manage cardiovascular risk factors",
+      "Get quality sleep",
+      "Protect head from injury"
+    ],
+    "severity": "Moderate",
+    "contagious": false,
+    "typical_duration": "Varies",
+    "treatment_available": true
+  },
+  {
+    "name": "Parkinson's Disease",
+    "category": "** Neurological Disorder",
+    "icd_code": "** G20",
+    "symptoms": [
+      "Tremor",
+      "Slowed movement",
+      "Rigid muscles",
+      "Impaired posture and balance",
+      "Loss of automatic movements",
+      "Speech changes",
+      "Writing changes",
+      "Depression"
+    ],
+    "risk_factors": [
+      "Age",
+      "Male gender",
+      "Genetics",
+      "Environmental toxin exposure",
+      "Head trauma"
+    ],
+    "precautions": [
+      "Regular exercise",
+      "Medication compliance",
+      "Physical therapy",
+      "Occupational therapy",
+      "Speech therapy",
+      "Healthy diet",
+      "Fall prevention"
+    ],
+    "severity": "Moderate",
+    "contagious": false,
+    "typical_duration": "Varies",
+    "treatment_available": true
+  },
+  {
+    "name": "Epilepsy",
+    "category": "** Neurological Disorder",
+    "icd_code": "** G40",
+    "symptoms": [
+      "Seizures",
+      "Temporary confusion",
+      "Staring spells",
+      "Uncontrollable jerking movements",
+      "Loss of consciousness",
+      "Fear or anxiety",
+      "D\u00e9j\u00e0 vu sensations"
+    ],
+    "risk_factors": [
+      "Family history",
+      "Head trauma",
+      "Stroke",
+      "Brain tumors",
+      "Infections (meningitis)",
+      "Prenatal injury",
+      "Developmental disorders"
+    ],
+    "precautions": [
+      "Take medications as prescribed",
+      "Get adequate sleep",
+      "Avoid triggers",
+      "Wear medical alert bracelet",
+      "Avoid swimming alone",
+      "Avoid heights",
+      "Manage stress"
+    ],
+    "severity": "Moderate",
+    "contagious": false,
+    "typical_duration": "Varies",
+    "treatment_available": true
+  },
+  {
+    "name": "Migraine",
+    "category": "** Neurological Disorder",
+    "icd_code": "** G43",
+    "symptoms": [
+      "Severe throbbing headache",
+      "Nausea and vomiting",
+      "Sensitivity to light and sound",
+      "Aura (visual disturbances)",
+      "Lightheadedness",
+      "Blurred vision",
+      "Fatigue"
+    ],
+    "risk_factors": [
+      "Family history",
+      "Age (peak 20s-40s)",
+      "Female gender",
+      "Hormonal changes",
+      "Certain foods",
+      "Stress",
+      "Sensory stimuli",
+      "Changes in sleep"
+    ],
+    "precautions": [
+      "Identify and avoid triggers",
+      "Maintain regular sleep schedule",
+      "Manage stress",
+      "Regular meals",
+      "Stay hydrated",
+      "Limit caffeine",
+      "Preventive medications"
+    ],
+    "severity": "Moderate",
+    "contagious": false,
+    "typical_duration": "Varies",
+    "treatment_available": true
+  },
+  {
+    "name": "Peripheral Neuropathy",
+    "category": "** Neurological Disorder",
+    "icd_code": "** G62",
+    "symptoms": [
+      "Numbness and tingling",
+      "Burning pain",
+      "Sensitivity to touch",
+      "Muscle weakness",
+      "Lack of coordination",
+      "Pain during normal activities",
+      "Paralysis if motor nerves affected"
+    ],
+    "risk_factors": [
+      "Diabetes",
+      "Alcohol abuse",
+      "Vitamin deficiencies",
+      "Infections",
+      "Autoimmune diseases",
+      "Kidney or liver disorders",
+      "Exposure to toxins",
+      "Certain medications"
+    ],
+    "precautions": [
+      "Manage underlying conditions",
+      "Limit alcohol",
+      "Eat nutritious diet",
+      "Protect from injuries",
+      "Regular exercise",
+      "Medication review",
+      "Foot care (diabetics)",
+      "--"
+    ],
+    "severity": "Moderate",
+    "contagious": false,
+    "typical_duration": "Varies",
+    "treatment_available": true
+  },
+  {
+    "name": "Gastroesophageal Reflux Disease (GERD)",
+    "category": "** Digestive Disorder",
+    "icd_code": "** K21",
+    "symptoms": [
+      "Heartburn",
+      "Acid regurgitation",
+      "Difficulty swallowing",
+      "Chest pain",
+      "Chronic cough",
+      "Hoarseness",
+      "Sensation of lump in throat",
+      "Worsening asthma"
+    ],
+    "risk_factors": [
+      "Obesity",
+      "Pregnancy",
+      "Hiatal hernia",
+      "Connective tissue disorders",
+      "Delayed stomach emptying",
+      "Smoking",
+      "Certain foods and drinks",
+      "Large meals before bed"
+    ],
+    "precautions": [
+      "Maintain healthy weight",
+      "Avoid trigger foods",
+      "Eat smaller meals",
+      "Don't lie down after eating",
+      "Elevate head of bed",
+      "Don't smoke",
+      "Limit alcohol"
+    ],
+    "severity": "Moderate",
+    "contagious": false,
+    "typical_duration": "Varies",
+    "treatment_available": true
+  },
+  {
+    "name": "Irritable Bowel Syndrome (IBS)",
+    "category": "** Digestive Disorder",
+    "icd_code": "** K58",
+    "symptoms": [
+      "Abdominal pain",
+      "Cramping",
+      "Gas and bloating",
+      "Diarrhea or constipation",
+      "Mucus in stool",
+      "Changes in bowel habits"
+    ],
+    "risk_factors": [
+      "Female gender",
+      "Age under 50",
+      "Family history",
+      "Mental health issues",
+      "Food sensitivities"
+    ],
+    "precautions": [
+      "Identify trigger foods",
+      "Manage stress",
+      "Regular exercise",
+      "Adequate fiber",
+      "Stay hydrated",
+      "Probiotics",
+      "FODMAP diet"
+    ],
+    "severity": "Moderate",
+    "contagious": false,
+    "typical_duration": "Varies",
+    "treatment_available": true
+  },
+  {
+    "name": "Inflammatory Bowel Disease (IBD) - Crohn's Disease",
+    "category": "** Digestive Disorder",
+    "icd_code": "** K50",
+    "symptoms": [
+      "Diarrhea",
+      "Abdominal pain and cramping",
+      "Blood in stool",
+      "Reduced appetite",
+      "Weight loss",
+      "Fatigue",
+      "Fever",
+      "Mouth sores",
+      "Anal fissures"
+    ],
+    "risk_factors": [
+      "Age (before 30)",
+      "Family history",
+      "Smoking",
+      "Certain ethnic backgrounds",
+      "NSAIDs use"
+    ],
+    "precautions": [
+      "Medication compliance",
+      "Avoid trigger foods",
+      "Don't smoke",
+      "Manage stress",
+      "Nutritional support",
+      "Regular monitoring"
+    ],
+    "severity": "Moderate",
+    "contagious": false,
+    "typical_duration": "Varies",
+    "treatment_available": true
+  },
+  {
+    "name": "Ulcerative Colitis",
+    "category": "** Digestive Disorder",
+    "icd_code": "** K51",
+    "symptoms": [
+      "Diarrhea with blood",
+      "Abdominal pain and cramping",
+      "Rectal pain",
+      "Urgency to defecate",
+      "Weight loss",
+      "Fatigue",
+      "Fever",
+      "Failure to grow (children)"
+    ],
+    "risk_factors": [
+      "Age (before 30 or after 60)",
+      "Family history",
+      "Ethnicity (Ashkenazi Jewish)"
+    ],
+    "precautions": [
+      "Medication adherence",
+      "Dietary modifications",
+      "Stress management",
+      "Regular colonoscopies",
+      "Maintain hydration"
+    ],
+    "severity": "Moderate",
+    "contagious": false,
+    "typical_duration": "Varies",
+    "treatment_available": true
+  },
+  {
+    "name": "Peptic Ulcer Disease",
+    "category": "** Digestive Disorder",
+    "icd_code": "** K27",
+    "symptoms": [
+      "Burning stomach pain",
+      "Feeling of fullness",
+      "Bloating",
+      "Heartburn",
+      "Nausea",
+      "Vomiting",
+      "Dark stools",
+      "Unexplained weight loss"
+    ],
+    "risk_factors": [
+      "H. pylori infection",
+      "Regular NSAID use",
+      "Smoking",
+      "Excessive alcohol",
+      "Stress",
+      "Spicy foods"
+    ],
+    "precautions": [
+      "Treat H. pylori",
+      "Avoid NSAIDs",
+      "Limit alcohol",
+      "Don't smoke",
+      "Manage stress",
+      "Avoid trigger foods",
+      "Take medications as prescribed",
+      "--"
+    ],
+    "severity": "Moderate",
+    "contagious": false,
+    "typical_duration": "Varies",
+    "treatment_available": true
+  },
+  {
+    "name": "Polycystic Ovary Syndrome (PCOS)",
+    "category": "** Endocrine Disorder",
+    "icd_code": "** E28.2",
+    "symptoms": [
+      "Irregular periods",
+      "Excess androgen (male hormones)",
+      "Acne",
+      "Excess facial and body hair",
+      "Male-pattern baldness",
+      "Weight gain",
+      "Darkened skin",
+      "Infertility"
+    ],
+    "risk_factors": [
+      "Insulin resistance",
+      "Obesity",
+      "Family history",
+      "Inflammation"
+    ],
+    "precautions": [
+      "Maintain healthy weight",
+      "Regular exercise",
+      "Low-glycemic diet",
+      "Birth control pills",
+      "Metformin",
+      "Fertility treatments"
+    ],
+    "severity": "Moderate",
+    "contagious": false,
+    "typical_duration": "Varies",
+    "treatment_available": true
+  },
+  {
+    "name": "Addison's Disease",
+    "category": "** Endocrine Disorder",
+    "icd_code": "** E27.1",
+    "symptoms": [
+      "Fatigue and muscle weakness",
+      "Weight loss",
+      "Low blood pressure",
+      "Darkening of skin",
+      "Salt craving",
+      "Low blood sugar",
+      "Nausea and vomiting",
+      "Diarrhea",
+      "Depression",
+      "Irritability"
+    ],
+    "risk_factors": [
+      "Autoimmune disease",
+      "Tuberculosis",
+      "Cancer spread",
+      "Bleeding into adrenal glands",
+      "Genetic factors"
+    ],
+    "precautions": [
+      "Hormone replacement therapy",
+      "Increase salt intake",
+      "Carry emergency ID",
+      "Stress dose steroids when ill",
+      "Regular monitoring"
+    ],
+    "severity": "Moderate",
+    "contagious": false,
+    "typical_duration": "Varies",
+    "treatment_available": true
+  },
+  {
+    "name": "Cushing's Syndrome",
+    "category": "** Endocrine Disorder",
+    "icd_code": "** E24",
+    "symptoms": [
+      "Weight gain (upper body)",
+      "Round face",
+      "Increased fat around neck",
+      "Thinning arms and legs",
+      "Purple stretch marks",
+      "Easy bruising",
+      "Weakness",
+      "High blood pressure",
+      "High blood sugar",
+      "Mood changes"
+    ],
+    "risk_factors": [
+      "Prolonged corticosteroid use",
+      "Pituitary or adrenal tumors",
+      "Ectopic ACTH-producing tumors"
+    ],
+    "precautions": [
+      "Treat underlying cause",
+      "Taper steroids gradually",
+      "Regular monitoring",
+      "Manage complications",
+      "Surgery if tumor present"
+    ],
+    "severity": "Moderate",
+    "contagious": false,
+    "typical_duration": "Varies",
+    "treatment_available": true
+  },
+  {
+    "name": "Acromegaly",
+    "category": "** Endocrine Disorder",
+    "icd_code": "** E22.0",
+    "symptoms": [
+      "Enlarged hands and feet",
+      "Enlarged facial features",
+      "Coarse, oily skin",
+      "Excessive sweating",
+      "Fatigue",
+      "Joint pain",
+      "Vision problems",
+      "Headaches",
+      "Sleep apnea",
+      "Deepening voice"
+    ],
+    "risk_factors": [
+      "Pituitary tumor",
+      "Family history (rare)",
+      "Middle age"
+    ],
+    "precautions": [
+      "Surgery to remove tumor",
+      "Medications",
+      "Radiation therapy",
+      "Regular monitoring",
+      "Manage complications"
+    ],
+    "severity": "Moderate",
+    "contagious": false,
+    "typical_duration": "Varies",
+    "treatment_available": true
+  },
+  {
+    "name": "Hyperprolactinemia",
+    "category": "** Endocrine Disorder",
+    "icd_code": "** E22.1",
+    "symptoms": [
+      "Irregular periods",
+      "Infertility",
+      "Breast milk production (non-pregnant)",
+      "Decreased libido",
+      "Erectile dysfunction",
+      "Breast enlargement (men)",
+      "Vision problems",
+      "Headaches"
+    ],
+    "risk_factors": [
+      "Pituitary tumor",
+      "Certain medications",
+      "Hypothyroidism",
+      "Pregnancy/breastfeeding"
+    ],
+    "precautions": [
+      "Medication (dopamine agonists)",
+      "Surgery if tumor",
+      "Treat underlying cause",
+      "Regular monitoring",
+      "--"
+    ],
+    "severity": "Moderate",
+    "contagious": false,
+    "typical_duration": "Varies",
+    "treatment_available": true
+  },
+  {
+    "name": "Lung Cancer",
+    "category": "** Cancer",
+    "icd_code": "** C34",
+    "symptoms": [
+      "Persistent cough",
+      "Coughing up blood",
+      "Shortness of breath",
+      "Chest pain",
+      "Hoarseness",
+      "Weight loss",
+      "Bone pain",
+      "Headache"
+    ],
+    "risk_factors": [
+      "Smoking",
+      "Secondhand smoke",
+      "Radon exposure",
+      "Asbestos exposure",
+      "Family history",
+      "Air pollution"
+    ],
+    "precautions": [
+      "Don't smoke/quit smoking",
+      "Avoid secondhand smoke",
+      "Test for radon",
+      "Avoid carcinogens",
+      "Screening for high-risk individuals"
+    ],
+    "severity": "Moderate",
+    "contagious": false,
+    "typical_duration": "Varies",
+    "treatment_available": true
+  },
+  {
+    "name": "Breast Cancer",
+    "category": "** Cancer",
+    "icd_code": "** C50",
+    "symptoms": [
+      "Breast lump",
+      "Change in breast size or shape",
+      "Nipple discharge",
+      "Nipple inversion",
+      "Skin dimpling",
+      "Redness or pitting",
+      "Swelling",
+      "Pain"
+    ],
+    "risk_factors": [
+      "Female gender",
+      "Age",
+      "Family history",
+      "BRCA genes",
+      "Early menstruation",
+      "Late menopause",
+      "Never pregnant",
+      "Hormone therapy",
+      "Alcohol",
+      "Obesity"
+    ],
+    "precautions": [
+      "Self-exams",
+      "Regular mammograms",
+      "Know family history",
+      "Limit alcohol",
+      "Maintain healthy weight",
+      "Exercise regularly",
+      "Breastfeed if possible"
+    ],
+    "severity": "Moderate",
+    "contagious": false,
+    "typical_duration": "Varies",
+    "treatment_available": true
+  },
+  {
+    "name": "Colorectal Cancer",
+    "category": "** Cancer",
+    "icd_code": "** C18-C20",
+    "symptoms": [
+      "Change in bowel habits",
+      "Blood in stool",
+      "Persistent abdominal discomfort",
+      "Weakness and fatigue",
+      "Unintended weight loss",
+      "Feeling that bowel doesn't empty"
+    ],
+    "risk_factors": [
+      "Age over 50",
+      "Family history",
+      "Inflammatory bowel disease",
+      "Low-fiber diet",
+      "Sedentary lifestyle",
+      "Obesity",
+      "Smoking",
+      "Alcohol"
+    ],
+    "precautions": [
+      "Regular screening (age 45+)",
+      "High-fiber diet",
+      "Limit red meat",
+      "Exercise regularly",
+      "Maintain healthy weight",
+      "Don't smoke",
+      "Limit alcohol"
+    ],
+    "severity": "Moderate",
+    "contagious": false,
+    "typical_duration": "Varies",
+    "treatment_available": true
+  },
+  {
+    "name": "Prostate Cancer",
+    "category": "** Cancer",
+    "icd_code": "** C61",
+    "symptoms": [
+      "Difficulty urinating",
+      "Weak urine flow",
+      "Blood in urine or semen",
+      "Bone pain",
+      "Erectile dysfunction",
+      "Discomfort in pelvic area",
+      "Often asymptomatic early"
+    ],
+    "risk_factors": [
+      "Age",
+      "Race (African American)",
+      "Family history",
+      "Obesity"
+    ],
+    "precautions": [
+      "Discuss screening with doctor (age 50+)",
+      "Healthy diet",
+      "Regular exercise",
+      "Maintain healthy weight"
+    ],
+    "severity": "Moderate",
+    "contagious": false,
+    "typical_duration": "Varies",
+    "treatment_available": true
+  },
+  {
+    "name": "Skin Cancer (Melanoma)",
+    "category": "** Cancer",
+    "icd_code": "** C43",
+    "symptoms": [
+      "New mole or growth",
+      "Change in existing mole",
+      "Asymmetry",
+      "Irregular border",
+      "Color changes",
+      "Diameter larger than pencil eraser",
+      "Evolving size, shape, or color",
+      "Bleeding or itching"
+    ],
+    "risk_factors": [
+      "Fair skin",
+      "Sun exposure",
+      "Tanning bed use",
+      "Many moles",
+      "Family history",
+      "Weakened immune system",
+      "Personal history of skin cancer"
+    ],
+    "precautions": [
+      "Use sunscreen (SPF 30+)",
+      "Avoid tanning beds",
+      "Wear protective clothing",
+      "Seek shade",
+      "Regular skin checks",
+      "Monthly self-exams",
+      "--"
+    ],
+    "severity": "Moderate",
+    "contagious": false,
+    "typical_duration": "Varies",
+    "treatment_available": true
+  },
+  {
+    "name": "Major Depressive Disorder",
+    "category": "** Mental Health Disorder",
+    "icd_code": "** F32",
+    "symptoms": [
+      "Persistent sad mood",
+      "Loss of interest in activities",
+      "Fatigue",
+      "Sleep changes",
+      "Appetite changes",
+      "Difficulty concentrating",
+      "Feelings of worthlessness",
+      "Thoughts of death",
+      "Physical aches"
+    ],
+    "risk_factors": [
+      "Family history",
+      "Trauma",
+      "Major life changes",
+      "Chronic illness",
+      "Certain medications",
+      "Substance abuse"
+    ],
+    "precautions": [
+      "Therapy (CBT, psychotherapy)",
+      "Antidepressant medications",
+      "Regular exercise",
+      "Social support",
+      "Stress management",
+      "Healthy sleep habits",
+      "Avoid alcohol and drugs"
+    ],
+    "severity": "Moderate",
+    "contagious": false,
+    "typical_duration": "Varies",
+    "treatment_available": true
+  },
+  {
+    "name": "Generalized Anxiety Disorder",
+    "category": "** Mental Health Disorder",
+    "icd_code": "** F41.1",
+    "symptoms": [
+      "Excessive worry",
+      "Restlessness",
+      "Fatigue",
+      "Difficulty concentrating",
+      "Irritability",
+      "Muscle tension",
+      "Sleep disturbance",
+      "Physical symptoms (sweating, nausea)"
+    ],
+    "risk_factors": [
+      "Female gender",
+      "Childhood trauma",
+      "Chronic illness",
+      "Stress",
+      "Family history",
+      "Personality type"
+    ],
+    "precautions": [
+      "Therapy (CBT)",
+      "Medications (SSRIs, SNRIs)",
+      "Relaxation techniques",
+      "Regular exercise",
+      "Limit caffeine and alcohol",
+      "Adequate sleep",
+      "Stress management"
+    ],
+    "severity": "Moderate",
+    "contagious": false,
+    "typical_duration": "Varies",
+    "treatment_available": true
+  },
+  {
+    "name": "Bipolar Disorder",
+    "category": "** Mental Health Disorder",
+    "icd_code": "** F31",
+    "symptoms": [
+      "Manic episodes (elevated mood, increased energy)",
+      "Depressive episodes",
+      "Rapid speech",
+      "Racing thoughts",
+      "Impulsivity",
+      "Decreased need for sleep",
+      "Extreme mood swings",
+      "Poor judgment"
+    ],
+    "risk_factors": [
+      "Family history",
+      "Periods of high stress",
+      "Drug or alcohol abuse",
+      "Traumatic events"
+    ],
+    "precautions": [
+      "Mood stabilizers",
+      "Therapy",
+      "Medication compliance",
+      "Routine sleep schedule",
+      "Avoid drugs and alcohol",
+      "Recognize early warning signs",
+      "Support system"
+    ],
+    "severity": "Moderate",
+    "contagious": false,
+    "typical_duration": "Varies",
+    "treatment_available": true
+  },
+  {
+    "name": "Obsessive-Compulsive Disorder (OCD)",
+    "category": "** Mental Health Disorder",
+    "icd_code": "** F42",
+    "symptoms": [
+      "Obsessive thoughts",
+      "Compulsive behaviors",
+      "Fear of contamination",
+      "Excessive cleaning",
+      "Checking repeatedly",
+      "Need for symmetry",
+      "Intrusive thoughts",
+      "Anxiety"
+    ],
+    "risk_factors": [
+      "Family history",
+      "Stressful life events",
+      "Other mental health disorders",
+      "Childhood trauma"
+    ],
+    "precautions": [
+      "Therapy (ERP, CBT)",
+      "SSRI medications",
+      "Practice coping strategies",
+      "Manage stress",
+      "Support groups",
+      "Avoid avoidance"
+    ],
+    "severity": "Moderate",
+    "contagious": false,
+    "typical_duration": "Varies",
+    "treatment_available": true
+  },
+  {
+    "name": "Post-Traumatic Stress Disorder (PTSD)",
+    "category": "** Mental Health Disorder",
+    "icd_code": "** F43.1",
+    "symptoms": [
+      "Intrusive memories",
+      "Flashbacks",
+      "Nightmares",
+      "Avoidance",
+      "Negative changes in thinking",
+      "Hyperarousal",
+      "Difficulty sleeping",
+      "Irritability",
+      "Emotional numbness"
+    ],
+    "risk_factors": [
+      "Experiencing trauma",
+      "Childhood trauma",
+      "Lack of support",
+      "Other mental health issues",
+      "Substance abuse",
+      "Family history"
+    ],
+    "precautions": [
+      "Trauma-focused therapy",
+      "EMDR",
+      "Medications (SSRIs)",
+      "Support system",
+      "Stress management",
+      "Avoid substance abuse",
+      "Self-care",
+      "--"
+    ],
+    "severity": "Moderate",
+    "contagious": false,
+    "typical_duration": "Varies",
+    "treatment_available": true
+  },
+  {
+    "name": "Ehlers-Danlos Syndrome",
+    "category": "** Rare Genetic Disorder",
+    "icd_code": "** Q79.6",
+    "symptoms": [
+      "Hypermobile joints",
+      "Stretchy skin",
+      "Fragile skin",
+      "Easy bruising",
+      "Chronic pain",
+      "Joint dislocations",
+      "Slow wound healing"
+    ],
+    "risk_factors": [
+      "Genetic mutation",
+      "Family history"
+    ],
+    "precautions": [
+      "Physical therapy",
+      "Pain management",
+      "Avoid contact sports",
+      "Protect skin",
+      "Genetic counseling"
+    ],
+    "severity": "Moderate",
+    "contagious": false,
+    "typical_duration": "Varies",
+    "treatment_available": true
+  },
+  {
+    "name": "Myasthenia Gravis",
+    "category": "** Rare Autoimmune Disorder",
+    "icd_code": "** G70.0",
+    "symptoms": [
+      "Muscle weakness",
+      "Drooping eyelids",
+      "Double vision",
+      "Difficulty speaking",
+      "Difficulty swallowing",
+      "Difficulty breathing",
+      "Weakness in limbs",
+      "Fatigue"
+    ],
+    "risk_factors": [
+      "Autoimmune disease",
+      "Thymus abnormalities",
+      "Female gender (young adults)",
+      "Male gender (older adults)"
+    ],
+    "precautions": [
+      "Medications (anticholinesterase)",
+      "Immunosuppressants",
+      "Avoid triggers",
+      "Monitor respiratory function",
+      "Medical alert bracelet",
+      "--"
+    ],
+    "severity": "Moderate",
+    "contagious": false,
+    "typical_duration": "Varies",
+    "treatment_available": true
+  }
+]
